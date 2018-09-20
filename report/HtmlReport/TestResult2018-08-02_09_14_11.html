@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>上线学校监测报告</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { }
+
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+	font-size: 16pt;
+	color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 500px;
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #777;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#result_table td {
+    border: 1px solid #777;
+    padding: 2px;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #6c6; }
+.failClass  { background-color: #c60; }
+.errorClass { background-color: #c00; }
+.passCase   { color: #6c6; }
+.failCase   { color: #c60; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+</style>
+
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById('div_'+tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+/* obsoleted by detail in <div>
+function showOutput(id, name) {
+    var w = window.open("", //url
+                    name,
+                    "resizable,scrollbars,status,width=800,height=450");
+    d = w.document;
+    d.write("<pre>");
+    d.write(html_escape(output_list[id]));
+    d.write("\n");
+    d.write("<a href='javascript:window.close()'>close</a>\n");
+    d.write("</pre>\n");
+    d.close();
+}
+*/
+--></script>
+
+<div class='heading'>
+<h1>上线学校监测报告</h1>
+<p class='attribute'><strong>Start Time:</strong> 2018-08-02 09:14:11</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:46.521661</p>
+<p class='attribute'><strong>Status:</strong> Pass 13</p>
+
+<p class='description'>Test the import testcase</p>
+</div>
+
+
+
+<p id='show_detail_line'>Show
+<a href='javascript:showCase(0)'>Summary</a>
+<a href='javascript:showCase(1)'>Failed</a>
+<a href='javascript:showCase(2)'>All</a>
+</p>
+<table id='result_table'>
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='passClass'>
+    <td>test_homepage.TestIntoHomepage</td>
+    <td>13</td>
+    <td>13</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',13)">Detail</a></td>
+</tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_10___湖北中医药大学____hbtcm____http___zs_hbtcm_edu_cn_hbtcm____3_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.1: 2018-08-02 09:14:19,794 - root - INFO - SUCCESS    Navigated to http://zs.hbtcm.edu.cn/hbtcm, Spend 4.8013927936553955 seconds
+2018-08-02 09:14:19,797 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009937286376953125 seconds
+2018-08-02 09:14:19,836 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.038538455963134766 seconds
+2018-08-02 09:14:19,836 - root - ERROR - None
+2018-08-02 09:14:19,837 - root - INFO - 湖北中医药大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_11___南京审计大学____nau____http___zs_nau_edu_cn_____4_0__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
+
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.2: 2018-08-02 09:14:23,500 - root - INFO - SUCCESS    Navigated to http://zs.nau.edu.cn/, Spend 3.661638021469116 seconds
+2018-08-02 09:14:23,504 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010008811950683594 seconds
+2018-08-02 09:14:23,558 - root - INFO - SUCCESS    Element: &lt;id-&gt;school-logo&gt; is exist, Spend 0.05303835868835449 seconds
+2018-08-02 09:14:23,559 - root - ERROR - None
+2018-08-02 09:14:23,559 - root - INFO - 南京审计大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_12___西南政法学____swupl____http___zszx_swupl_edu_cn_swupl____3_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+        pass</a>
+
+    <div id='div_pt1.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.3: 2018-08-02 09:14:29,300 - root - INFO - SUCCESS    Navigated to http://zszx.swupl.edu.cn/swupl, Spend 5.739648818969727 seconds
+2018-08-02 09:14:29,303 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010006427764892578 seconds
+2018-08-02 09:14:29,351 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.04794120788574219 seconds
+2018-08-02 09:14:29,352 - root - ERROR - None
+2018-08-02 09:14:29,352 - root - INFO - 西南政法学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_13___长江大学____yangtzeu____http___zszc_yangtzeu_edu_cn_yangtzeu____3_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.4')" >
+        pass</a>
+
+    <div id='div_pt1.4' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.4').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.4: 2018-08-02 09:14:38,176 - root - INFO - SUCCESS    Navigated to http://zszc.yangtzeu.edu.cn/yangtzeu, Spend 8.823246240615845 seconds
+2018-08-02 09:14:38,178 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009996891021728516 seconds
+2018-08-02 09:14:38,227 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.04803347587585449 seconds
+2018-08-02 09:14:38,227 - root - ERROR - None
+2018-08-02 09:14:38,228 - root - INFO - 长江大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_1___对外经济贸易大学____uibe____http___zhinengdayi_com_uibe____3_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.5')" >
+        pass</a>
+
+    <div id='div_pt1.5' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.5').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.5: 2018-08-02 09:14:41,296 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/uibe, Spend 3.067169427871704 seconds
+2018-08-02 09:14:41,299 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.002000570297241211 seconds
+2018-08-02 09:14:41,342 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.04102897644042969 seconds
+2018-08-02 09:14:41,342 - root - ERROR - None
+2018-08-02 09:14:41,342 - root - INFO - 对外经济贸易大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.6' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_2___华中师范大学研招____ccnuyz____http___zhinengdayi_com_ccnuyz____3_2__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.6')" >
+        pass</a>
+
+    <div id='div_pt1.6' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.6').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.6: 2018-08-02 09:14:43,478 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/ccnuyz, Spend 2.1345114707946777 seconds
+2018-08-02 09:14:43,481 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010004043579101562 seconds
+2018-08-02 09:14:43,627 - root - INFO - SUCCESS    Element: &lt;id-&gt;school-logo&gt; is exist, Spend 0.14609956741333008 seconds
+2018-08-02 09:14:43,628 - root - ERROR - None
+2018-08-02 09:14:43,629 - root - INFO - 华中师范大学研招页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.7' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_3___湖北工业大学____hbut____http___zhinengdayi_com_hbut____4_0__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.7')" >
+        pass</a>
+
+    <div id='div_pt1.7' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.7').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.7: 2018-08-02 09:14:45,086 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 1.4552361965179443 seconds
+2018-08-02 09:14:45,087 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010008811950683594 seconds
+2018-08-02 09:14:45,119 - root - INFO - SUCCESS    Element: &lt;id-&gt;school-logo&gt; is exist, Spend 0.03202223777770996 seconds
+2018-08-02 09:14:45,120 - root - ERROR - None
+2018-08-02 09:14:45,120 - root - INFO - 湖北工业大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.8' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_4___湖北美术学院____hifa____http___zhinengdayi_com_hifa____4_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.8')" >
+        pass</a>
+
+    <div id='div_pt1.8' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.8').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.8: 2018-08-02 09:14:47,125 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hifa, Spend 2.0043277740478516 seconds
+2018-08-02 09:14:47,127 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00099945068359375 seconds
+2018-08-02 09:14:47,155 - root - INFO - SUCCESS    Element: &lt;id-&gt;school-logo&gt; is exist, Spend 0.027019739151000977 seconds
+2018-08-02 09:14:47,155 - root - ERROR - None
+2018-08-02 09:14:47,155 - root - INFO - 湖北美术学院页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.9' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_5___中国地址大学_武汉_____cugyz____http___zhinengdayi_com_cugyz____5_0__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.9')" >
+        pass</a>
+
+    <div id='div_pt1.9' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.9').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.9: 2018-08-02 09:14:49,505 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/cugyz, Spend 2.3487508296966553 seconds
+2018-08-02 09:14:49,507 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2018-08-02 09:14:49,543 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='header_logo']&gt; is exist, Spend 0.035024404525756836 seconds
+2018-08-02 09:14:49,543 - root - ERROR - None
+2018-08-02 09:14:49,544 - root - INFO - 中国地址大学（武汉）页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.10' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_6___北京中医药大学____bucm____http___zhinengdayi_com_bucm____7_0__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.10')" >
+        pass</a>
+
+    <div id='div_pt1.10' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.10').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.10: 2018-08-02 09:14:50,896 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/bucm, Spend 1.3509573936462402 seconds
+2018-08-02 09:14:50,898 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2018-08-02 09:14:50,923 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.024018287658691406 seconds
+2018-08-02 09:14:50,924 - root - ERROR - None
+2018-08-02 09:14:50,924 - root - INFO - 北京中医药大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.11' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_7___三峡大学____ctgu____http___zhinengdayi_com_ctgu____7_1__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.11')" >
+        pass</a>
+
+    <div id='div_pt1.11' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.11').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.11: 2018-08-02 09:14:52,876 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/ctgu, Spend 1.9503796100616455 seconds
+2018-08-02 09:14:52,880 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0030045509338378906 seconds
+2018-08-02 09:14:52,906 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.02501702308654785 seconds
+2018-08-02 09:14:52,907 - root - ERROR - None
+2018-08-02 09:14:52,907 - root - INFO - 三峡大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.12' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_8___长安大学____chd____http___zhinengdayi_com_chd____7_2__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.12')" >
+        pass</a>
+
+    <div id='div_pt1.12' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.12').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.12: 2018-08-02 09:14:54,187 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/chd, Spend 1.2799053192138672 seconds
+2018-08-02 09:14:54,189 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.001001119613647461 seconds
+2018-08-02 09:14:54,233 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//img[@class='school_logo']&gt; is exist, Spend 0.04303121566772461 seconds
+2018-08-02 09:14:54,234 - root - ERROR - None
+2018-08-02 09:14:54,234 - root - INFO - 长安大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.13' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_into_homepage_9___电子科技大学____uestc____http___zhinengdayi_com_uestc____9_0__</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.13')" >
+        pass</a>
+
+    <div id='div_pt1.13' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.13').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.13: 2018-08-02 09:14:55,805 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/uestc, Spend 1.5701117515563965 seconds
+2018-08-02 09:14:55,807 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010023117065429688 seconds
+2018-08-02 09:14:55,854 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//div[@class='logo fl']&gt; is exist, Spend 0.04603290557861328 seconds
+2018-08-02 09:14:55,855 - root - ERROR - None
+2018-08-02 09:14:55,855 - root - INFO - 电子科技大学页面打开正常
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>13</td>
+    <td>13</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+2018-08-02 09:14:11,652 - root - INFO - ############################### START ###############################
+2018-08-02 09:14:11,654 - root - INFO - 正在启动Chrome浏览器
+2018-08-02 09:14:19,794 - root - INFO - SUCCESS    Navigated to http://zs.hbtcm.edu.cn/hbtcm, Spend 4.8013927936553955 seconds
+2018-08-02 09:14:19,797 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009937286376953125 seconds
+2018-08-02 09:14:19,836 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.038538455963134766 seconds
+2018-08-02 09:14:19,836 - root - ERROR - None
+2018-08-02 09:14:19,837 - root - INFO - 湖北中医药大学页面打开正常
+2018-08-02 09:14:23,500 - root - INFO - SUCCESS    Navigated to http://zs.nau.edu.cn/, Spend 3.661638021469116 seconds
+2018-08-02 09:14:23,504 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010008811950683594 seconds
+2018-08-02 09:14:23,558 - root - INFO - SUCCESS    Element: <id->school-logo> is exist, Spend 0.05303835868835449 seconds
+2018-08-02 09:14:23,559 - root - ERROR - None
+2018-08-02 09:14:23,559 - root - INFO - 南京审计大学页面打开正常
+2018-08-02 09:14:29,300 - root - INFO - SUCCESS    Navigated to http://zszx.swupl.edu.cn/swupl, Spend 5.739648818969727 seconds
+2018-08-02 09:14:29,303 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010006427764892578 seconds
+2018-08-02 09:14:29,351 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.04794120788574219 seconds
+2018-08-02 09:14:29,352 - root - ERROR - None
+2018-08-02 09:14:29,352 - root - INFO - 西南政法学页面打开正常
+2018-08-02 09:14:38,176 - root - INFO - SUCCESS    Navigated to http://zszc.yangtzeu.edu.cn/yangtzeu, Spend 8.823246240615845 seconds
+2018-08-02 09:14:38,178 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009996891021728516 seconds
+2018-08-02 09:14:38,227 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.04803347587585449 seconds
+2018-08-02 09:14:38,227 - root - ERROR - None
+2018-08-02 09:14:38,228 - root - INFO - 长江大学页面打开正常
+2018-08-02 09:14:41,296 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/uibe, Spend 3.067169427871704 seconds
+2018-08-02 09:14:41,299 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.002000570297241211 seconds
+2018-08-02 09:14:41,342 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.04102897644042969 seconds
+2018-08-02 09:14:41,342 - root - ERROR - None
+2018-08-02 09:14:41,342 - root - INFO - 对外经济贸易大学页面打开正常
+2018-08-02 09:14:43,478 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/ccnuyz, Spend 2.1345114707946777 seconds
+2018-08-02 09:14:43,481 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010004043579101562 seconds
+2018-08-02 09:14:43,627 - root - INFO - SUCCESS    Element: <id->school-logo> is exist, Spend 0.14609956741333008 seconds
+2018-08-02 09:14:43,628 - root - ERROR - None
+2018-08-02 09:14:43,629 - root - INFO - 华中师范大学研招页面打开正常
+2018-08-02 09:14:45,086 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 1.4552361965179443 seconds
+2018-08-02 09:14:45,087 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010008811950683594 seconds
+2018-08-02 09:14:45,119 - root - INFO - SUCCESS    Element: <id->school-logo> is exist, Spend 0.03202223777770996 seconds
+2018-08-02 09:14:45,120 - root - ERROR - None
+2018-08-02 09:14:45,120 - root - INFO - 湖北工业大学页面打开正常
+2018-08-02 09:14:47,125 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hifa, Spend 2.0043277740478516 seconds
+2018-08-02 09:14:47,127 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00099945068359375 seconds
+2018-08-02 09:14:47,155 - root - INFO - SUCCESS    Element: <id->school-logo> is exist, Spend 0.027019739151000977 seconds
+2018-08-02 09:14:47,155 - root - ERROR - None
+2018-08-02 09:14:47,155 - root - INFO - 湖北美术学院页面打开正常
+2018-08-02 09:14:49,505 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/cugyz, Spend 2.3487508296966553 seconds
+2018-08-02 09:14:49,507 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2018-08-02 09:14:49,543 - root - INFO - SUCCESS    Element: <xpath->//img[@class='header_logo']> is exist, Spend 0.035024404525756836 seconds
+2018-08-02 09:14:49,543 - root - ERROR - None
+2018-08-02 09:14:49,544 - root - INFO - 中国地址大学（武汉）页面打开正常
+2018-08-02 09:14:50,896 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/bucm, Spend 1.3509573936462402 seconds
+2018-08-02 09:14:50,898 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2018-08-02 09:14:50,923 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.024018287658691406 seconds
+2018-08-02 09:14:50,924 - root - ERROR - None
+2018-08-02 09:14:50,924 - root - INFO - 北京中医药大学页面打开正常
+2018-08-02 09:14:52,876 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/ctgu, Spend 1.9503796100616455 seconds
+2018-08-02 09:14:52,880 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0030045509338378906 seconds
+2018-08-02 09:14:52,906 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.02501702308654785 seconds
+2018-08-02 09:14:52,907 - root - ERROR - None
+2018-08-02 09:14:52,907 - root - INFO - 三峡大学页面打开正常
+2018-08-02 09:14:54,187 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/chd, Spend 1.2799053192138672 seconds
+2018-08-02 09:14:54,189 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.001001119613647461 seconds
+2018-08-02 09:14:54,233 - root - INFO - SUCCESS    Element: <xpath->//img[@class='school_logo']> is exist, Spend 0.04303121566772461 seconds
+2018-08-02 09:14:54,234 - root - ERROR - None
+2018-08-02 09:14:54,234 - root - INFO - 长安大学页面打开正常
+2018-08-02 09:14:55,805 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/uestc, Spend 1.5701117515563965 seconds
+2018-08-02 09:14:55,807 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010023117065429688 seconds
+2018-08-02 09:14:55,854 - root - INFO - SUCCESS    Element: <xpath->//div[@class='logo fl']> is exist, Spend 0.04603290557861328 seconds
+2018-08-02 09:14:55,855 - root - ERROR - None
+2018-08-02 09:14:55,855 - root - INFO - 电子科技大学页面打开正常
+2018-08-02 09:14:58,171 - root - INFO - ###############################  End  ###############################

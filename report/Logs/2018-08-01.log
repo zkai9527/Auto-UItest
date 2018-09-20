@@ -1,0 +1,1569 @@
+2018-08-01 09:25:11,698 - root - INFO - ############################### START ###############################
+2018-08-01 09:25:11,698 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:25:17,550 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.507758140563965 seconds
+2018-08-01 09:25:17,635 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08506107330322266 seconds
+2018-08-01 09:25:17,801 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.16411519050598145 seconds
+2018-08-01 09:25:20,344 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.5432887077331543 seconds
+2018-08-01 09:25:20,401 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 0.056040287017822266 seconds
+2018-08-01 09:25:20,402 - root - INFO - 热点信息
+2018-08-01 09:25:20,497 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09405088424682617 seconds
+2018-08-01 09:25:22,358 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 1.8608901500701904 seconds
+2018-08-01 09:25:22,359 - root - INFO - 热点信息
+2018-08-01 09:25:22,360 - root - ERROR - None
+2018-08-01 09:25:22,361 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 09:25:24,633 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:26:38,466 - root - INFO - ############################### START ###############################
+2018-08-01 09:26:38,467 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:26:44,799 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.4447877407073975 seconds
+2018-08-01 09:26:44,888 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08706092834472656 seconds
+2018-08-01 09:26:45,054 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.16511750221252441 seconds
+2018-08-01 09:26:47,063 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.008418321609497 seconds
+2018-08-01 09:26:48,183 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 1.1207940578460693 seconds
+2018-08-01 09:26:48,486 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.30121302604675293 seconds
+2018-08-01 09:26:48,588 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.10207295417785645 seconds
+2018-08-01 09:26:48,684 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.09506845474243164 seconds
+2018-08-01 09:26:49,277 - root - ERROR - FAIL    Unable to get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.5924198627471924 seconds
+2018-08-01 09:26:51,451 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:27:21,611 - root - INFO - ############################### START ###############################
+2018-08-01 09:27:21,612 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:27:25,922 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.926347255706787 seconds
+2018-08-01 09:27:26,011 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08905982971191406 seconds
+2018-08-01 09:27:26,137 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.12408828735351562 seconds
+2018-08-01 09:27:28,322 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.1829147338867188 seconds
+2018-08-01 09:27:29,022 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.6984927654266357 seconds
+2018-08-01 09:27:29,225 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.20214009284973145 seconds
+2018-08-01 09:27:29,333 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.10707545280456543 seconds
+2018-08-01 09:27:29,427 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.09406709671020508 seconds
+2018-08-01 09:27:29,428 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0009999275207519531 seconds
+2018-08-01 09:27:30,001 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.5724053382873535 seconds
+2018-08-01 09:27:30,002 - root - ERROR - None
+2018-08-01 09:27:30,003 - root - INFO - 搜索页跳转正常
+2018-08-01 09:27:32,219 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:28:18,587 - root - INFO - ############################### START ###############################
+2018-08-01 09:28:18,588 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:28:22,417 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.3816840648651123 seconds
+2018-08-01 09:28:22,498 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08005738258361816 seconds
+2018-08-01 09:28:22,643 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.14409971237182617 seconds
+2018-08-01 09:28:24,630 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9867594242095947 seconds
+2018-08-01 09:28:25,358 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7257552146911621 seconds
+2018-08-01 09:28:25,498 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.13909530639648438 seconds
+2018-08-01 09:28:25,569 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.07105088233947754 seconds
+2018-08-01 09:28:25,666 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.09506797790527344 seconds
+2018-08-01 09:28:28,204 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 2.537858247756958 seconds
+2018-08-01 09:28:28,205 - root - ERROR - None
+2018-08-01 09:28:28,206 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 09:28:30,406 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:29:25,813 - root - INFO - ############################### START ###############################
+2018-08-01 09:29:25,815 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:29:30,447 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2613282203674316 seconds
+2018-08-01 09:29:30,538 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08906292915344238 seconds
+2018-08-01 09:29:30,698 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.16011548042297363 seconds
+2018-08-01 09:29:32,826 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.1265037059783936 seconds
+2018-08-01 09:29:33,580 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7534048557281494 seconds
+2018-08-01 09:29:38,742 - root - ERROR - FAIL    Unable to get element text element: <id->footprint01>, Spend 5.159994602203369 seconds
+2018-08-01 09:29:40,902 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:30:39,099 - root - INFO - ############################### START ###############################
+2018-08-01 09:30:39,101 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:30:43,636 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.629321813583374 seconds
+2018-08-01 09:30:43,721 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0840601921081543 seconds
+2018-08-01 09:30:43,865 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.14364886283874512 seconds
+2018-08-01 09:30:46,228 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.3618130683898926 seconds
+2018-08-01 09:30:47,089 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.8586080074310303 seconds
+2018-08-01 09:30:47,227 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.13709545135498047 seconds
+2018-08-01 09:30:47,902 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.6738717555999756 seconds
+2018-08-01 09:30:47,983 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.08105945587158203 seconds
+2018-08-01 09:30:47,984 - root - ERROR - None
+2018-08-01 09:30:47,985 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 09:30:50,172 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:32:37,768 - root - INFO - ############################### START ###############################
+2018-08-01 09:32:37,769 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:32:41,894 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.6478750705718994 seconds
+2018-08-01 09:32:42,055 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.15911602973937988 seconds
+2018-08-01 09:32:44,224 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.169532060623169 seconds
+2018-08-01 09:32:44,313 - root - INFO - FAIL    Unable to click element: <id->robot>, Spend 0.08707475662231445 seconds
+2018-08-01 09:32:46,529 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:34:03,288 - root - INFO - ############################### START ###############################
+2018-08-01 09:34:03,289 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:34:07,725 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.074603796005249 seconds
+2018-08-01 09:34:07,892 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.16711878776550293 seconds
+2018-08-01 09:34:09,918 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.024888038635254 seconds
+2018-08-01 09:34:10,670 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.7508523464202881 seconds
+2018-08-01 09:34:10,685 - root - INFO - SUCCESS    Get current window title, Spend 0.01300811767578125 seconds
+2018-08-01 09:34:10,687 - root - ERROR - None
+2018-08-01 09:34:10,688 - root - INFO - 成功进入登录页
+2018-08-01 09:34:12,897 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:34:25,599 - root - INFO - ############################### START ###############################
+2018-08-01 09:34:25,601 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:34:29,546 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.548611879348755 seconds
+2018-08-01 09:34:29,697 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.15010952949523926 seconds
+2018-08-01 09:34:31,962 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.264315366744995 seconds
+2018-08-01 09:34:32,031 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.06905078887939453 seconds
+2018-08-01 09:34:32,089 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.05505514144897461 seconds
+2018-08-01 09:34:32,181 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.09205126762390137 seconds
+2018-08-01 09:34:32,184 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.001997709274291992 seconds
+2018-08-01 09:34:32,825 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.6394526958465576 seconds
+2018-08-01 09:34:32,826 - root - ERROR - None
+2018-08-01 09:34:32,827 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 09:34:35,011 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:35:01,378 - root - INFO - ############################### START ###############################
+2018-08-01 09:35:01,379 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:35:06,059 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2903268337249756 seconds
+2018-08-01 09:35:06,198 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.13709545135498047 seconds
+2018-08-01 09:35:09,035 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.8360769748687744 seconds
+2018-08-01 09:35:09,150 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.11407947540283203 seconds
+2018-08-01 09:35:09,269 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.11808204650878906 seconds
+2018-08-01 09:35:09,370 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.10107111930847168 seconds
+2018-08-01 09:35:09,372 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 09:35:09,977 - root - ERROR - FAIL    Unable to get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.60542893409729 seconds
+2018-08-01 09:35:12,157 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:35:35,490 - root - INFO - ############################### START ###############################
+2018-08-01 09:35:35,492 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:35:40,617 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.7516543865203857 seconds
+2018-08-01 09:35:40,784 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.16511940956115723 seconds
+2018-08-01 09:35:43,648 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.8630266189575195 seconds
+2018-08-01 09:35:43,740 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.09206485748291016 seconds
+2018-08-01 09:35:43,849 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.10807657241821289 seconds
+2018-08-01 09:35:43,962 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.11273646354675293 seconds
+2018-08-01 09:35:43,964 - root - INFO - SUCCESS    Set wait all element display in 5 seconds, Spend 0.0 seconds
+2018-08-01 09:35:43,965 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010008811950683594 seconds
+2018-08-01 09:35:44,657 - root - ERROR - FAIL    Unable to get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.692490816116333 seconds
+2018-08-01 09:35:46,855 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:38:34,786 - root - INFO - ############################### START ###############################
+2018-08-01 09:38:34,787 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:38:39,240 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.590986490249634 seconds
+2018-08-01 09:38:39,387 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.14710330963134766 seconds
+2018-08-01 09:38:41,416 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.028940200805664 seconds
+2018-08-01 09:38:41,508 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.09205412864685059 seconds
+2018-08-01 09:38:41,733 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.22414565086364746 seconds
+2018-08-01 09:38:41,842 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.10805630683898926 seconds
+2018-08-01 09:38:41,844 - root - INFO - SUCCESS    Set wait all element display in 5 seconds, Spend 0.000988006591796875 seconds
+2018-08-01 09:38:41,845 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.001001119613647461 seconds
+2018-08-01 09:38:42,555 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='menu']/div/div>, Spend 0.708488941192627 seconds
+2018-08-01 09:38:42,555 - root - ERROR - 搜索页跳转异常:'常见问题' != '热点信息'
+- 常见问题
++ 热点信息
+
+2018-08-01 09:38:44,772 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:39:22,196 - root - INFO - ############################### START ###############################
+2018-08-01 09:39:22,197 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:39:26,311 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7611050605773926 seconds
+2018-08-01 09:39:26,458 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.14508724212646484 seconds
+2018-08-01 09:39:28,412 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.9539835453033447 seconds
+2018-08-01 09:39:28,503 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.09104490280151367 seconds
+2018-08-01 09:39:28,637 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.13309359550476074 seconds
+2018-08-01 09:39:28,750 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.11308169364929199 seconds
+2018-08-01 09:39:28,752 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2018-08-01 09:39:28,754 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0009999275207519531 seconds
+2018-08-01 09:39:29,327 - root - ERROR - FAIL    Unable to get element text element: <xpath->//div[@id='menu']/div/div>, Spend 0.5734045505523682 seconds
+2018-08-01 09:39:31,544 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:39:41,437 - root - INFO - ############################### START ###############################
+2018-08-01 09:39:41,438 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:39:46,098 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.213190793991089 seconds
+2018-08-01 09:39:46,234 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.13409638404846191 seconds
+2018-08-01 09:39:48,148 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.912660837173462 seconds
+2018-08-01 09:39:48,233 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.08407163619995117 seconds
+2018-08-01 09:39:48,373 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.14009952545166016 seconds
+2018-08-01 09:39:48,484 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.11107873916625977 seconds
+2018-08-01 09:39:48,486 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0009999275207519531 seconds
+2018-08-01 09:39:48,489 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020017623901367188 seconds
+2018-08-01 09:39:49,155 - root - ERROR - FAIL    Unable to get element text element: <xpath->//div[@id='menu']/div/div>, Spend 0.6644361019134521 seconds
+2018-08-01 09:39:51,337 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:43:50,076 - root - INFO - ############################### START ###############################
+2018-08-01 09:43:50,079 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:43:54,645 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.45622181892395 seconds
+2018-08-01 09:43:54,847 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.2011423110961914 seconds
+2018-08-01 09:43:57,576 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.7293927669525146 seconds
+2018-08-01 09:43:57,694 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.11608290672302246 seconds
+2018-08-01 09:43:57,835 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.14009833335876465 seconds
+2018-08-01 09:43:57,979 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.14210009574890137 seconds
+2018-08-01 09:43:59,072 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.092792272567749 seconds
+2018-08-01 09:43:59,072 - root - ERROR - None
+2018-08-01 09:43:59,073 - root - INFO - 搜索页跳转正常
+2018-08-01 09:44:02,735 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:54:57,249 - root - INFO - ############################### START ###############################
+2018-08-01 09:54:57,250 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:55:01,903 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.494441032409668 seconds
+2018-08-01 09:55:02,100 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.19613957405090332 seconds
+2018-08-01 09:55:04,094 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.9936790466308594 seconds
+2018-08-01 09:55:04,212 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.11808395385742188 seconds
+2018-08-01 09:55:04,246 - root - INFO - SUCCESS    Get attribute element: <xpath->//div[@class='tab-con'][2]>,attribute: style, Spend 0.0310213565826416 seconds
+2018-08-01 09:55:04,247 - root - ERROR - 点击学校招生计划表格加载异常：'display: block;' != ''
+- display: block;
++ 
+
+2018-08-01 09:55:06,811 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:57:11,705 - root - INFO - ############################### START ###############################
+2018-08-01 09:57:11,716 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:57:17,622 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.134942293167114 seconds
+2018-08-01 09:57:17,804 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.17997241020202637 seconds
+2018-08-01 09:57:20,234 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.4292988777160645 seconds
+2018-08-01 09:57:20,353 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.1170802116394043 seconds
+2018-08-01 09:57:25,477 - root - INFO - FAIL    Element: <id->enrollPlanDetail> is not exist, Spend 5.1236748695373535 seconds
+2018-08-01 09:57:25,478 - root - ERROR - 点击学校招生计划表格加载异常：False is not true
+2018-08-01 09:57:27,994 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:57:50,543 - root - INFO - ############################### START ###############################
+2018-08-01 09:57:50,545 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:57:56,440 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.043057680130005 seconds
+2018-08-01 09:57:56,626 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.18613052368164062 seconds
+2018-08-01 09:57:58,894 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.2661774158477783 seconds
+2018-08-01 09:57:59,011 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.11708188056945801 seconds
+2018-08-01 09:57:59,046 - root - INFO - SUCCESS    Get attribute element: <xpath->//div[@class='tab-con'][2]>,attribute: style, Spend 0.03302359580993652 seconds
+2018-08-01 09:57:59,046 - root - ERROR - 点击学校招生计划表格加载异常：'display: block;' != ''
+- display: block;
++ 
+
+2018-08-01 09:58:02,492 - root - INFO - ###############################  End  ###############################
+2018-08-01 09:59:52,575 - root - INFO - ############################### START ###############################
+2018-08-01 09:59:52,577 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 09:59:57,206 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5072834491729736 seconds
+2018-08-01 09:59:57,401 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.1941380500793457 seconds
+2018-08-01 09:59:59,854 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.451812267303467 seconds
+2018-08-01 09:59:59,975 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.11908388137817383 seconds
+2018-08-01 10:00:00,007 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.032022714614868164 seconds
+2018-08-01 10:00:00,008 - root - ERROR - None
+2018-08-01 10:00:00,009 - root - INFO - 点击学校招生计划表格正在加载
+2018-08-01 10:00:02,704 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:08:23,154 - root - INFO - ############################### START ###############################
+2018-08-01 10:08:23,163 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:08:28,782 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.780967950820923 seconds
+2018-08-01 10:08:28,949 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.16612029075622559 seconds
+2018-08-01 10:08:31,025 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.076000452041626 seconds
+2018-08-01 10:08:36,103 - root - ERROR - FAIL    Unable to get element text element: <id->footprint>, Spend 5.077590465545654 seconds
+2018-08-01 10:08:39,578 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:08:48,265 - root - INFO - ############################### START ###############################
+2018-08-01 10:08:48,266 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:08:52,818 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.3241469860076904 seconds
+2018-08-01 10:08:53,010 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.1921367645263672 seconds
+2018-08-01 10:08:55,437 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.426239490509033 seconds
+2018-08-01 10:08:55,524 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.08606123924255371 seconds
+2018-08-01 10:08:55,671 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.1461029052734375 seconds
+2018-08-01 10:09:00,800 - root - ERROR - FAIL    Unable to get element text element: <id->footprint>, Spend 5.128628492355347 seconds
+2018-08-01 10:09:04,511 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:10:13,547 - root - INFO - ############################### START ###############################
+2018-08-01 10:10:13,557 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:10:17,560 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.329543352127075 seconds
+2018-08-01 10:10:17,752 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.19214367866516113 seconds
+2018-08-01 10:10:40,453 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 22.69952654838562 seconds
+2018-08-01 10:10:40,531 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.07805538177490234 seconds
+2018-08-01 10:10:41,610 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[5]>, Spend 1.076669692993164 seconds
+2018-08-01 10:10:41,726 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.11608028411865234 seconds
+2018-08-01 10:10:41,727 - root - ERROR - None
+2018-08-01 10:10:41,728 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:10:44,223 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:11:37,742 - root - INFO - ############################### START ###############################
+2018-08-01 10:11:37,763 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:11:41,979 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5577378273010254 seconds
+2018-08-01 10:11:42,165 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18513083457946777 seconds
+2018-08-01 10:11:42,877 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7115039825439453 seconds
+2018-08-01 10:11:42,960 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08205795288085938 seconds
+2018-08-01 10:11:43,051 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09006214141845703 seconds
+2018-08-01 10:11:43,179 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1270902156829834 seconds
+2018-08-01 10:11:43,181 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020012855529785156 seconds
+2018-08-01 10:11:44,722 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 1.539182424545288 seconds
+2018-08-01 10:11:44,722 - root - ERROR - None
+2018-08-01 10:11:44,723 - root - INFO - 二级页面导航栏点击分类跳转正常
+2018-08-01 10:11:48,176 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:12:12,042 - root - INFO - ############################### START ###############################
+2018-08-01 10:12:12,051 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:12:16,623 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.4627432823181152 seconds
+2018-08-01 10:12:16,789 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16611838340759277 seconds
+2018-08-01 10:12:17,727 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9366631507873535 seconds
+2018-08-01 10:12:17,861 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.13209152221679688 seconds
+2018-08-01 10:12:19,413 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[3]>, Spend 1.5519592761993408 seconds
+2018-08-01 10:12:19,492 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[3]//a[@class='lastCat'][1]/span>, Spend 0.07805490493774414 seconds
+2018-08-01 10:12:20,313 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[3]//a[@class='lastCat'][1]>, Spend 0.8195836544036865 seconds
+2018-08-01 10:12:20,420 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.10607028007507324 seconds
+2018-08-01 10:12:20,442 - root - ERROR - None
+2018-08-01 10:12:20,442 - root - INFO - 二级页面左侧三级菜单栏点击跳转正常
+2018-08-01 10:12:23,892 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:13:01,690 - root - INFO - ############################### START ###############################
+2018-08-01 10:13:01,691 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:13:06,414 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.4447293281555176 seconds
+2018-08-01 10:13:06,607 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19113540649414062 seconds
+2018-08-01 10:13:07,464 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.8556041717529297 seconds
+2018-08-01 10:13:07,543 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='articleList']/a[2]/span[@class='title']>, Spend 0.07805466651916504 seconds
+2018-08-01 10:13:09,282 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[1]>, Spend 1.7392301559448242 seconds
+2018-08-01 10:13:10,042 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='next-article']>, Spend 0.7595381736755371 seconds
+2018-08-01 10:13:10,209 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.16711711883544922 seconds
+2018-08-01 10:13:10,210 - root - ERROR - None
+2018-08-01 10:13:10,210 - root - INFO - 二级页面点击下一篇跳转正常
+2018-08-01 10:13:13,636 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:13:50,342 - root - INFO - ############################### START ###############################
+2018-08-01 10:13:50,345 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:13:54,221 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.305229425430298 seconds
+2018-08-01 10:13:54,388 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16711878776550293 seconds
+2018-08-01 10:13:54,982 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.593419075012207 seconds
+2018-08-01 10:13:55,589 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.6064281463623047 seconds
+2018-08-01 10:13:56,687 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 1.0977764129638672 seconds
+2018-08-01 10:13:56,801 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11148381233215332 seconds
+2018-08-01 10:13:56,802 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.001001596450805664 seconds
+2018-08-01 10:13:57,422 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.6184372901916504 seconds
+2018-08-01 10:13:57,423 - root - ERROR - 跳转异常:'热点信息' != '招录公告'
+- 热点信息
++ 招录公告
+
+2018-08-01 10:14:00,908 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:16:01,116 - root - INFO - ############################### START ###############################
+2018-08-01 10:16:01,151 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:16:05,401 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.1498007774353027 seconds
+2018-08-01 10:16:05,581 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1801280975341797 seconds
+2018-08-01 10:16:06,230 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6474580764770508 seconds
+2018-08-01 10:16:06,772 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.5423855781555176 seconds
+2018-08-01 10:16:07,877 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 1.1040029525756836 seconds
+2018-08-01 10:16:07,992 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11312317848205566 seconds
+2018-08-01 10:16:07,993 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:16:07,995 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:16:08,083 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.08706235885620117 seconds
+2018-08-01 10:16:08,084 - root - ERROR - 跳转异常:'热点信息' != '招录公告'
+- 热点信息
++ 招录公告
+
+2018-08-01 10:16:11,606 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:17:09,621 - root - INFO - ############################### START ###############################
+2018-08-01 10:17:09,623 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:17:15,291 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9205665588378906 seconds
+2018-08-01 10:17:15,464 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17112421989440918 seconds
+2018-08-01 10:17:16,010 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.5463831424713135 seconds
+2018-08-01 10:17:16,610 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.597646951675415 seconds
+2018-08-01 10:17:21,734 - root - ERROR - FAIL    Unable to get element text element: <xpath->//ul[@id='headerNav']/li[2]//li[1]/a>, Spend 5.123744249343872 seconds
+2018-08-01 10:17:25,166 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:18:03,702 - root - INFO - ############################### START ###############################
+2018-08-01 10:18:03,704 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:18:07,906 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.4507341384887695 seconds
+2018-08-01 10:18:08,095 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18813467025756836 seconds
+2018-08-01 10:18:08,878 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7825000286102295 seconds
+2018-08-01 10:18:09,438 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.5583913326263428 seconds
+2018-08-01 10:18:10,522 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 1.083442211151123 seconds
+2018-08-01 10:18:10,615 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[2]//li[1]/a>, Spend 0.09206438064575195 seconds
+2018-08-01 10:18:10,728 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11207985877990723 seconds
+2018-08-01 10:18:10,730 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0009989738464355469 seconds
+2018-08-01 10:18:11,374 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.6424546241760254 seconds
+2018-08-01 10:18:11,375 - root - ERROR - 跳转异常:'学校概况' != '招生计划'
+- 学校概况
++ 招生计划
+
+2018-08-01 10:18:14,810 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:18:22,306 - root - INFO - ############################### START ###############################
+2018-08-01 10:18:22,315 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:18:27,382 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.326645851135254 seconds
+2018-08-01 10:18:27,571 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1880645751953125 seconds
+2018-08-01 10:18:28,114 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.5433812141418457 seconds
+2018-08-01 10:18:28,800 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.6844959259033203 seconds
+2018-08-01 10:18:29,907 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.106111764907837 seconds
+2018-08-01 10:18:30,001 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09306550025939941 seconds
+2018-08-01 10:18:30,088 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08606171607971191 seconds
+2018-08-01 10:18:30,090 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.002001047134399414 seconds
+2018-08-01 10:18:30,899 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.8085720539093018 seconds
+2018-08-01 10:18:30,900 - root - ERROR - None
+2018-08-01 10:18:30,900 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:18:34,342 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:20:38,853 - root - INFO - ############################### START ###############################
+2018-08-01 10:20:38,861 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:20:43,196 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7089200019836426 seconds
+2018-08-01 10:20:43,398 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19913911819458008 seconds
+2018-08-01 10:20:44,010 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.612720251083374 seconds
+2018-08-01 10:20:44,752 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7405235767364502 seconds
+2018-08-01 10:20:46,125 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.3709707260131836 seconds
+2018-08-01 10:20:46,237 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.11207795143127441 seconds
+2018-08-01 10:20:46,359 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.12108516693115234 seconds
+2018-08-01 10:20:46,360 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010001659393310547 seconds
+2018-08-01 10:20:46,948 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.5874176025390625 seconds
+2018-08-01 10:20:46,949 - root - ERROR - None
+2018-08-01 10:20:46,950 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:20:50,396 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:37:52,070 - root - INFO - ############################### START ###############################
+2018-08-01 10:37:52,080 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:38:07,262 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 12.384867668151855 seconds
+2018-08-01 10:38:07,465 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.20214581489562988 seconds
+2018-08-01 10:38:08,358 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.892430305480957 seconds
+2018-08-01 10:38:09,501 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 1.1408064365386963 seconds
+2018-08-01 10:38:10,598 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.0955073833465576 seconds
+2018-08-01 10:38:10,673 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.0740506649017334 seconds
+2018-08-01 10:38:10,762 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08706212043762207 seconds
+2018-08-01 10:38:10,763 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:38:12,943 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 2.179542064666748 seconds
+2018-08-01 10:38:12,944 - root - ERROR - None
+2018-08-01 10:38:12,945 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:38:15,235 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:39:26,702 - root - INFO - ############################### START ###############################
+2018-08-01 10:39:26,703 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:39:34,566 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 5.449856281280518 seconds
+2018-08-01 10:39:34,654 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08706068992614746 seconds
+2018-08-01 10:39:34,814 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1581132411956787 seconds
+2018-08-01 10:39:36,898 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.0832793712615967 seconds
+2018-08-01 10:39:36,971 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.07205033302307129 seconds
+2018-08-01 10:39:37,062 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09006333351135254 seconds
+2018-08-01 10:39:37,153 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.091064453125 seconds
+2018-08-01 10:39:37,155 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020020008087158203 seconds
+2018-08-01 10:39:37,924 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.7685449123382568 seconds
+2018-08-01 10:39:37,925 - root - ERROR - None
+2018-08-01 10:39:37,926 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:39:40,425 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:40:46,245 - root - INFO - ############################### START ###############################
+2018-08-01 10:40:46,246 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:40:52,116 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.5024778842926025 seconds
+2018-08-01 10:40:52,760 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='fast-login']>, Spend 0.6424539089202881 seconds
+2018-08-01 10:40:52,767 - root - INFO - SUCCESS    Get current window title, Spend 0.006007194519042969 seconds
+2018-08-01 10:40:52,768 - root - ERROR - None
+2018-08-01 10:40:52,769 - root - INFO - 登录跳转正常
+2018-08-01 10:40:56,099 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:40:56,100 - root - INFO - ############################### START ###############################
+2018-08-01 10:40:56,101 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:00,042 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.373311758041382 seconds
+2018-08-01 10:41:00,160 - root - INFO - SUCCESS    Move to element: <id->mobile-qrcode>, Spend 0.11808371543884277 seconds
+2018-08-01 10:41:00,216 - root - INFO - SUCCESS    Get attribute element: <id->qrcode>,attribute: style, Spend 0.05403923988342285 seconds
+2018-08-01 10:41:00,216 - root - ERROR - None
+2018-08-01 10:41:00,217 - root - INFO - 二维码显示正常
+2018-08-01 10:41:02,710 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:02,711 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:02,712 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:09,475 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.078595399856567 seconds
+2018-08-01 10:41:10,166 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='fast_register']>, Spend 0.6901388168334961 seconds
+2018-08-01 10:41:10,187 - root - INFO - SUCCESS    Get current window title, Spend 0.02001500129699707 seconds
+2018-08-01 10:41:10,188 - root - ERROR - None
+2018-08-01 10:41:10,189 - root - INFO - 注册页跳转正常
+2018-08-01 10:41:12,988 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:12,989 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:12,990 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:17,415 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.915774345397949 seconds
+2018-08-01 10:41:17,743 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='m01']/a>, Spend 0.32579612731933594 seconds
+2018-08-01 10:41:18,836 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://admin.zhinengdayi.com/manage/index, Spend 1.092090368270874 seconds
+2018-08-01 10:41:18,855 - root - INFO - SUCCESS    Get current window title, Spend 0.018012285232543945 seconds
+2018-08-01 10:41:18,855 - root - ERROR - None
+2018-08-01 10:41:18,856 - root - INFO - 自定义项跳转正常
+2018-08-01 10:41:22,297 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:22,298 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:22,299 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:30,094 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.941575765609741 seconds
+2018-08-01 10:41:30,241 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.14560246467590332 seconds
+2018-08-01 10:41:30,381 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.1392068862915039 seconds
+2018-08-01 10:41:30,542 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='search-box']>, Spend 0.16079378128051758 seconds
+2018-08-01 10:41:31,661 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.1171574592590332 seconds
+2018-08-01 10:41:31,662 - root - ERROR - None
+2018-08-01 10:41:31,662 - root - INFO - 搜索页跳转正常
+2018-08-01 10:41:35,091 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:35,092 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:35,094 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:39,261 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.6559641361236572 seconds
+2018-08-01 10:41:39,512 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.25067901611328125 seconds
+2018-08-01 10:41:39,611 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[2]/a>, Spend 0.0980689525604248 seconds
+2018-08-01 10:41:40,397 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7838499546051025 seconds
+2018-08-01 10:41:40,401 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.003499269485473633 seconds
+2018-08-01 10:41:40,540 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.13809800148010254 seconds
+2018-08-01 10:41:40,541 - root - ERROR - None
+2018-08-01 10:41:40,541 - root - INFO - 导航栏跳转显示正常
+2018-08-01 10:41:43,138 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:43,139 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:43,140 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:47,993 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.134836435317993 seconds
+2018-08-01 10:41:48,128 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1340961456298828 seconds
+2018-08-01 10:41:48,242 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[2]//li[1]/a>, Spend 0.11357998847961426 seconds
+2018-08-01 10:41:48,452 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]//li[1]>, Spend 0.20914864540100098 seconds
+2018-08-01 10:41:50,677 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2230/1003, Spend 2.2240872383117676 seconds
+2018-08-01 10:41:50,768 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.09056377410888672 seconds
+2018-08-01 10:41:50,768 - root - ERROR - None
+2018-08-01 10:41:50,769 - root - INFO - 导航栏跳转显示正常
+2018-08-01 10:41:54,251 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:41:54,252 - root - INFO - ############################### START ###############################
+2018-08-01 10:41:54,253 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:41:58,321 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.468587636947632 seconds
+2018-08-01 10:41:58,440 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='rt news-list']/h3/a>, Spend 0.1175832748413086 seconds
+2018-08-01 10:41:58,633 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='rt news-list']/h3/a>, Spend 0.19213652610778809 seconds
+2018-08-01 10:42:00,904 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/26600/4467, Spend 2.2701451778411865 seconds
+2018-08-01 10:42:01,041 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.13509821891784668 seconds
+2018-08-01 10:42:01,041 - root - ERROR - None
+2018-08-01 10:42:01,042 - root - INFO - 快讯跳转显示正常
+2018-08-01 10:42:05,079 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:05,080 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:05,082 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:09,414 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5735862255096436 seconds
+2018-08-01 10:42:09,663 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='admission-notice']//a[@class='toMore']>, Spend 0.24817633628845215 seconds
+2018-08-01 10:42:10,370 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/4467?curPage=1&pageSize=10, Spend 0.7054977416992188 seconds
+2018-08-01 10:42:10,372 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0015010833740234375 seconds
+2018-08-01 10:42:10,462 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.08906292915344238 seconds
+2018-08-01 10:42:10,462 - root - ERROR - None
+2018-08-01 10:42:10,463 - root - INFO - 快讯跳转显示正常
+2018-08-01 10:42:12,981 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:12,982 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:12,983 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:17,217 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.503364086151123 seconds
+2018-08-01 10:42:17,334 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='news-list']/li[1]/a>, Spend 0.11558198928833008 seconds
+2018-08-01 10:42:17,529 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='news-list']/li[1]/a>, Spend 0.19313693046569824 seconds
+2018-08-01 10:42:19,466 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/26904/4467, Spend 1.9356646537780762 seconds
+2018-08-01 10:42:19,552 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.08455920219421387 seconds
+2018-08-01 10:42:19,553 - root - ERROR - None
+2018-08-01 10:42:19,553 - root - INFO - 快讯跳转显示正常
+2018-08-01 10:42:21,996 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:21,996 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:21,998 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:26,903 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.299333095550537 seconds
+2018-08-01 10:42:27,627 - root - INFO - SUCCESS    Clicked element: <id->jiqiren>, Spend 0.722510814666748 seconds
+2018-08-01 10:42:27,635 - root - INFO - SUCCESS    Get current window title, Spend 0.007506132125854492 seconds
+2018-08-01 10:42:27,637 - root - ERROR - None
+2018-08-01 10:42:27,639 - root - INFO - 机器人跳转显示正常
+2018-08-01 10:42:29,991 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:29,992 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:29,994 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:34,943 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.827230930328369 seconds
+2018-08-01 10:42:35,061 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='enrollment-regulations']//li[1]//img>, Spend 0.11708331108093262 seconds
+2018-08-01 10:42:35,331 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.2686905860900879 seconds
+2018-08-01 10:42:35,331 - root - ERROR - None
+2018-08-01 10:42:35,332 - root - INFO - 机器人跳转显示正常
+2018-08-01 10:42:37,890 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:37,891 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:37,892 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:47,062 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 7.485923767089844 seconds
+2018-08-01 10:42:47,197 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.13309335708618164 seconds
+2018-08-01 10:42:47,377 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17862653732299805 seconds
+2018-08-01 10:42:49,378 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9996495246887207 seconds
+2018-08-01 10:42:50,177 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7975726127624512 seconds
+2018-08-01 10:42:50,181 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.003001689910888672 seconds
+2018-08-01 10:42:50,386 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.20484018325805664 seconds
+2018-08-01 10:42:50,387 - root - ERROR - None
+2018-08-01 10:42:50,388 - root - INFO - 招录公告点击正常
+2018-08-01 10:42:52,775 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:42:52,775 - root - INFO - ############################### START ###############################
+2018-08-01 10:42:52,777 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:42:57,440 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.081149101257324 seconds
+2018-08-01 10:42:57,561 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.12008452415466309 seconds
+2018-08-01 10:42:57,750 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.18763279914855957 seconds
+2018-08-01 10:42:59,805 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.0543057918548584 seconds
+2018-08-01 10:42:59,885 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.07955598831176758 seconds
+2018-08-01 10:43:00,746 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.8596076965332031 seconds
+2018-08-01 10:43:00,955 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.20664596557617188 seconds
+2018-08-01 10:43:00,956 - root - ERROR - None
+2018-08-01 10:43:00,959 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:43:03,965 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:03,966 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:03,967 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:43:08,748 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.304509401321411 seconds
+2018-08-01 10:43:08,754 - root - INFO - SUCCESS    Get current window title, Spend 0.00600123405456543 seconds
+2018-08-01 10:43:08,852 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0960683822631836 seconds
+2018-08-01 10:43:09,017 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.16461610794067383 seconds
+2018-08-01 10:43:11,026 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.0074198246002197 seconds
+2018-08-01 10:43:12,073 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.0467414855957031 seconds
+2018-08-01 10:43:12,080 - root - INFO - SUCCESS    Get current window title, Spend 0.00600433349609375 seconds
+2018-08-01 10:43:12,081 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:43:12,082 - root - ERROR - None
+2018-08-01 10:43:12,083 - root - INFO - 点击logo跳转正常
+2018-08-01 10:43:14,410 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:14,410 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:14,412 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:43:19,757 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9705207347869873 seconds
+2018-08-01 10:43:19,852 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0933232307434082 seconds
+2018-08-01 10:43:20,041 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.18813157081604004 seconds
+2018-08-01 10:43:22,116 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.0751075744628906 seconds
+2018-08-01 10:43:22,191 - root - INFO - SUCCESS    Get element text element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.07505297660827637 seconds
+2018-08-01 10:43:23,006 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.8135781288146973 seconds
+2018-08-01 10:43:23,021 - root - INFO - SUCCESS    Get current window title, Spend 0.014007091522216797 seconds
+2018-08-01 10:43:23,022 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:43:23,023 - root - ERROR - None
+2018-08-01 10:43:23,024 - root - INFO - 点击专业跳转正常
+2018-08-01 10:43:25,401 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:25,402 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:25,403 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:43:30,196 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.233438730239868 seconds
+2018-08-01 10:43:30,289 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09208512306213379 seconds
+2018-08-01 10:43:30,455 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.16411638259887695 seconds
+2018-08-01 10:43:32,547 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.091029405593872 seconds
+2018-08-01 10:43:32,619 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0720524787902832 seconds
+2018-08-01 10:43:32,696 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.07605266571044922 seconds
+2018-08-01 10:43:32,785 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08706164360046387 seconds
+2018-08-01 10:43:32,786 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010001659393310547 seconds
+2018-08-01 10:43:33,444 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.6564784049987793 seconds
+2018-08-01 10:43:33,445 - root - ERROR - None
+2018-08-01 10:43:33,446 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:43:35,769 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:35,770 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:35,771 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:43:39,971 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.8199949264526367 seconds
+2018-08-01 10:43:40,083 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11208081245422363 seconds
+2018-08-01 10:43:40,266 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.18112921714782715 seconds
+2018-08-01 10:43:42,288 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.0204668045043945 seconds
+2018-08-01 10:43:42,360 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0720515251159668 seconds
+2018-08-01 10:43:42,435 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.07305002212524414 seconds
+2018-08-01 10:43:42,538 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1030733585357666 seconds
+2018-08-01 10:43:42,540 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.002001523971557617 seconds
+2018-08-01 10:43:44,416 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 1.8751084804534912 seconds
+2018-08-01 10:43:44,416 - root - ERROR - None
+2018-08-01 10:43:44,417 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:43:46,697 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:46,698 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:46,699 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:43:50,816 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7407147884368896 seconds
+2018-08-01 10:43:50,914 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09806656837463379 seconds
+2018-08-01 10:43:51,091 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17612409591674805 seconds
+2018-08-01 10:43:53,963 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.8700268268585205 seconds
+2018-08-01 10:43:54,624 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.6604666709899902 seconds
+2018-08-01 10:43:54,627 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.001995086669921875 seconds
+2018-08-01 10:43:55,025 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.3982808589935303 seconds
+2018-08-01 10:43:55,026 - root - ERROR - None
+2018-08-01 10:43:55,027 - root - INFO - 校园风采点击正常
+2018-08-01 10:43:57,427 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:43:57,428 - root - INFO - ############################### START ###############################
+2018-08-01 10:43:57,429 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:01,813 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9857800006866455 seconds
+2018-08-01 10:44:01,932 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11708235740661621 seconds
+2018-08-01 10:44:02,115 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.18213129043579102 seconds
+2018-08-01 10:44:04,056 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9412479400634766 seconds
+2018-08-01 10:44:04,729 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.6714751720428467 seconds
+2018-08-01 10:44:04,739 - root - INFO - SUCCESS    Get current window title, Spend 0.009008407592773438 seconds
+2018-08-01 10:44:04,741 - root - ERROR - None
+2018-08-01 10:44:04,742 - root - INFO - 成功进入登录页
+2018-08-01 10:44:08,188 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:44:08,189 - root - INFO - ############################### START ###############################
+2018-08-01 10:44:08,190 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:13,961 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.207353591918945 seconds
+2018-08-01 10:44:14,060 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09707021713256836 seconds
+2018-08-01 10:44:14,236 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17528200149536133 seconds
+2018-08-01 10:44:16,556 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.317735195159912 seconds
+2018-08-01 10:44:16,708 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.1511061191558838 seconds
+2018-08-01 10:44:16,875 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.16687417030334473 seconds
+2018-08-01 10:44:17,011 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.13601016998291016 seconds
+2018-08-01 10:44:18,099 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.086796760559082 seconds
+2018-08-01 10:44:18,099 - root - ERROR - None
+2018-08-01 10:44:18,100 - root - INFO - 搜索页跳转正常
+2018-08-01 10:44:20,406 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:44:20,407 - root - INFO - ############################### START ###############################
+2018-08-01 10:44:20,408 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:24,291 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.460114002227783 seconds
+2018-08-01 10:44:24,390 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09807085990905762 seconds
+2018-08-01 10:44:24,573 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.18313050270080566 seconds
+2018-08-01 10:44:26,653 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.07812237739563 seconds
+2018-08-01 10:44:27,438 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7833395004272461 seconds
+2018-08-01 10:44:27,440 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.001001119613647461 seconds
+2018-08-01 10:44:27,556 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.1150813102722168 seconds
+2018-08-01 10:44:27,557 - root - ERROR - None
+2018-08-01 10:44:27,558 - root - INFO - 视频在线点击正常
+2018-08-01 10:44:30,191 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:44:30,192 - root - INFO - ############################### START ###############################
+2018-08-01 10:44:30,193 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:34,741 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.840691566467285 seconds
+2018-08-01 10:44:34,839 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09706926345825195 seconds
+2018-08-01 10:44:35,014 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1751251220703125 seconds
+2018-08-01 10:44:37,118 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.1030876636505127 seconds
+2018-08-01 10:44:37,888 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7685446739196777 seconds
+2018-08-01 10:44:38,108 - root - INFO - SUCCESS    Clicked element: <id->enrollmentPlan>, Spend 0.2199687957763672 seconds
+2018-08-01 10:44:39,302 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 1.1929678916931152 seconds
+2018-08-01 10:44:39,303 - root - INFO - 历年招生计划查询
+2018-08-01 10:44:39,304 - root - ERROR - None
+2018-08-01 10:44:39,304 - root - INFO - 招生计划点击正常
+2018-08-01 10:44:41,593 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:44:41,594 - root - INFO - ############################### START ###############################
+2018-08-01 10:44:41,595 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:46,037 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9820454120635986 seconds
+2018-08-01 10:44:46,137 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.0980682373046875 seconds
+2018-08-01 10:44:46,310 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1720564365386963 seconds
+2018-08-01 10:44:48,226 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9150314331054688 seconds
+2018-08-01 10:44:48,941 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7150528430938721 seconds
+2018-08-01 10:44:49,155 - root - INFO - SUCCESS    Clicked element: <id->historyEnrollment>, Spend 0.2131500244140625 seconds
+2018-08-01 10:44:50,654 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 1.4975180625915527 seconds
+2018-08-01 10:44:50,655 - root - INFO - 专业录取分数
+2018-08-01 10:44:50,655 - root - ERROR - None
+2018-08-01 10:44:50,656 - root - INFO - 招生计划点击正常
+2018-08-01 10:44:52,998 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:44:52,999 - root - INFO - ############################### START ###############################
+2018-08-01 10:44:53,000 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:44:57,751 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.8954358100891113 seconds
+2018-08-01 10:44:57,850 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09907102584838867 seconds
+2018-08-01 10:44:58,027 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17612719535827637 seconds
+2018-08-01 10:44:59,999 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.970749855041504 seconds
+2018-08-01 10:45:00,834 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.8330864906311035 seconds
+2018-08-01 10:45:01,632 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7970888614654541 seconds
+2018-08-01 10:45:01,633 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:45:01,747 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.11308026313781738 seconds
+2018-08-01 10:45:01,748 - root - ERROR - None
+2018-08-01 10:45:01,748 - root - INFO - 招录公告点击正常
+2018-08-01 10:45:04,053 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:45:04,054 - root - INFO - ############################### START ###############################
+2018-08-01 10:45:04,055 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:45:08,299 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7342305183410645 seconds
+2018-08-01 10:45:08,417 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11787772178649902 seconds
+2018-08-01 10:45:08,589 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1701216697692871 seconds
+2018-08-01 10:45:10,643 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.051936388015747 seconds
+2018-08-01 10:45:11,373 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7296402454376221 seconds
+2018-08-01 10:45:11,551 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.17676997184753418 seconds
+2018-08-01 10:45:12,246 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.6934928894042969 seconds
+2018-08-01 10:45:12,342 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.09606695175170898 seconds
+2018-08-01 10:45:12,343 - root - ERROR - None
+2018-08-01 10:45:12,345 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:45:14,634 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:45:14,635 - root - INFO - ############################### START ###############################
+2018-08-01 10:45:14,636 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:45:18,735 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7261717319488525 seconds
+2018-08-01 10:45:18,743 - root - INFO - SUCCESS    Get current window title, Spend 0.008005619049072266 seconds
+2018-08-01 10:45:18,847 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.10213828086853027 seconds
+2018-08-01 10:45:19,032 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.184128999710083 seconds
+2018-08-01 10:45:20,943 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.910400152206421 seconds
+2018-08-01 10:45:22,944 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 1.999701738357544 seconds
+2018-08-01 10:45:24,018 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.0727591514587402 seconds
+2018-08-01 10:45:24,092 - root - INFO - SUCCESS    Get current window title, Spend 0.07105231285095215 seconds
+2018-08-01 10:45:24,093 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:45:24,093 - root - ERROR - None
+2018-08-01 10:45:24,094 - root - INFO - 点击logo跳转正常
+2018-08-01 10:45:26,558 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:45:26,559 - root - INFO - ############################### START ###############################
+2018-08-01 10:45:26,560 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:45:30,813 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.843498706817627 seconds
+2018-08-01 10:45:30,911 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.09706902503967285 seconds
+2018-08-01 10:45:31,090 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1781787872314453 seconds
+2018-08-01 10:45:33,223 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.1317636966705322 seconds
+2018-08-01 10:45:34,000 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7755491733551025 seconds
+2018-08-01 10:45:35,170 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 1.1697843074798584 seconds
+2018-08-01 10:45:35,171 - root - INFO - 热点信息
+2018-08-01 10:45:35,281 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11007809638977051 seconds
+2018-08-01 10:45:35,283 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:45:36,039 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.7545325756072998 seconds
+2018-08-01 10:45:36,040 - root - INFO - 热点信息
+2018-08-01 10:45:36,040 - root - ERROR - None
+2018-08-01 10:45:36,041 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:45:38,454 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:45:38,455 - root - INFO - ############################### START ###############################
+2018-08-01 10:45:38,456 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:45:43,202 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2656970024108887 seconds
+2018-08-01 10:45:43,291 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08906364440917969 seconds
+2018-08-01 10:45:43,468 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17612791061401367 seconds
+2018-08-01 10:45:45,388 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.919081687927246 seconds
+2018-08-01 10:45:46,865 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 1.4760494232177734 seconds
+2018-08-01 10:45:47,961 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.0937726497650146 seconds
+2018-08-01 10:45:48,057 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09506630897521973 seconds
+2018-08-01 10:45:48,158 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.10107064247131348 seconds
+2018-08-01 10:45:48,160 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010008811950683594 seconds
+2018-08-01 10:45:50,954 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 2.7940120697021484 seconds
+2018-08-01 10:45:50,955 - root - ERROR - None
+2018-08-01 10:45:50,956 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:45:54,409 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:45:54,410 - root - INFO - ############################### START ###############################
+2018-08-01 10:45:54,411 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:45:59,411 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.8750431537628174 seconds
+2018-08-01 10:45:59,500 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08806395530700684 seconds
+2018-08-01 10:45:59,674 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17212200164794922 seconds
+2018-08-01 10:46:02,216 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 2.541825771331787 seconds
+2018-08-01 10:46:03,123 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.903782844543457 seconds
+2018-08-01 10:46:03,907 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7835550308227539 seconds
+2018-08-01 10:46:03,909 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0009992122650146484 seconds
+2018-08-01 10:46:04,305 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.39427995681762695 seconds
+2018-08-01 10:46:04,305 - root - ERROR - None
+2018-08-01 10:46:04,306 - root - INFO - 校园风采点击正常
+2018-08-01 10:46:06,788 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:46:06,789 - root - INFO - ############################### START ###############################
+2018-08-01 10:46:06,790 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:46:11,050 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5337953567504883 seconds
+2018-08-01 10:46:11,154 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.1030735969543457 seconds
+2018-08-01 10:46:11,328 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.17412185668945312 seconds
+2018-08-01 10:46:13,298 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9678573608398438 seconds
+2018-08-01 10:46:14,233 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.9346628189086914 seconds
+2018-08-01 10:46:14,949 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.7155044078826904 seconds
+2018-08-01 10:46:14,956 - root - INFO - SUCCESS    Get current window title, Spend 0.007008075714111328 seconds
+2018-08-01 10:46:14,957 - root - ERROR - None
+2018-08-01 10:46:14,959 - root - INFO - 成功进入登录页
+2018-08-01 10:46:18,397 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:46:18,398 - root - INFO - ############################### START ###############################
+2018-08-01 10:46:18,399 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:46:22,964 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7469446659088135 seconds
+2018-08-01 10:46:23,082 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11708426475524902 seconds
+2018-08-01 10:46:23,259 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1751232147216797 seconds
+2018-08-01 10:46:25,214 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9545767307281494 seconds
+2018-08-01 10:46:25,988 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7725462913513184 seconds
+2018-08-01 10:46:26,222 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.23316407203674316 seconds
+2018-08-01 10:46:26,341 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.11808919906616211 seconds
+2018-08-01 10:46:26,465 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.12408661842346191 seconds
+2018-08-01 10:46:27,554 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.0887703895568848 seconds
+2018-08-01 10:46:27,555 - root - ERROR - None
+2018-08-01 10:46:27,555 - root - INFO - 搜索页跳转正常
+2018-08-01 10:46:30,950 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:46:30,951 - root - INFO - ############################### START ###############################
+2018-08-01 10:46:30,952 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:46:36,230 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.1192092895507812 seconds
+2018-08-01 10:46:36,331 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.10007166862487793 seconds
+2018-08-01 10:46:36,508 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.1751255989074707 seconds
+2018-08-01 10:46:38,477 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/3757/1121, Spend 1.9690167903900146 seconds
+2018-08-01 10:46:39,207 - root - INFO - SUCCESS    Clicked element: <xpath->//tbody/tr[1]/td[3]/a>, Spend 0.7285172939300537 seconds
+2018-08-01 10:46:40,067 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.8597807884216309 seconds
+2018-08-01 10:46:40,070 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020012855529785156 seconds
+2018-08-01 10:46:40,177 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.10607504844665527 seconds
+2018-08-01 10:46:40,178 - root - ERROR - None
+2018-08-01 10:46:40,179 - root - INFO - 视频在线点击正常
+2018-08-01 10:46:43,734 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:46:43,735 - root - INFO - ############################### START ###############################
+2018-08-01 10:46:43,736 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:46:47,983 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5415937900543213 seconds
+2018-08-01 10:46:48,165 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.1821284294128418 seconds
+2018-08-01 10:46:50,168 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.0004143714904785 seconds
+2018-08-01 10:46:50,845 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.6764786243438721 seconds
+2018-08-01 10:46:50,847 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020017623901367188 seconds
+2018-08-01 10:46:50,962 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.11307930946350098 seconds
+2018-08-01 10:46:50,962 - root - ERROR - None
+2018-08-01 10:46:50,963 - root - INFO - 招录公告点击正常
+2018-08-01 10:46:54,372 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:46:54,373 - root - INFO - ############################### START ###############################
+2018-08-01 10:46:54,374 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:46:59,992 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.4732553958892822 seconds
+2018-08-01 10:47:00,164 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.1701204776763916 seconds
+2018-08-01 10:47:02,705 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.5405306816101074 seconds
+2018-08-01 10:47:02,732 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.027019262313842773 seconds
+2018-08-01 10:47:02,760 - root - INFO - SUCCESS    Get attribute element: <xpath->//div[@class='tab-con'][2]>,attribute: style, Spend 0.027018308639526367 seconds
+2018-08-01 10:47:02,761 - root - ERROR - None
+2018-08-01 10:47:02,762 - root - ERROR - None
+2018-08-01 10:47:02,762 - root - INFO - 默认显示正常
+2018-08-01 10:47:06,182 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:47:06,183 - root - INFO - ############################### START ###############################
+2018-08-01 10:47:06,184 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:47:11,856 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.8670284748077393 seconds
+2018-08-01 10:47:12,039 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.18312501907348633 seconds
+2018-08-01 10:47:14,427 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.3867557048797607 seconds
+2018-08-01 10:47:14,504 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.07605504989624023 seconds
+2018-08-01 10:47:14,623 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.11808443069458008 seconds
+2018-08-01 10:47:19,693 - root - ERROR - FAIL    Unable to get element text element: <id->footprint>, Spend 5.06983494758606 seconds
+2018-08-01 10:47:23,084 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:47:23,087 - root - INFO - ############################### START ###############################
+2018-08-01 10:47:23,089 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:47:28,957 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.8267056941986084 seconds
+2018-08-01 10:47:28,965 - root - INFO - SUCCESS    Get current window title, Spend 0.007005214691162109 seconds
+2018-08-01 10:47:29,132 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.16611719131469727 seconds
+2018-08-01 10:47:31,018 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.8843331336975098 seconds
+2018-08-01 10:47:33,776 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 2.756950855255127 seconds
+2018-08-01 10:47:33,783 - root - INFO - SUCCESS    Get current window title, Spend 0.006006956100463867 seconds
+2018-08-01 10:47:33,783 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:47:33,784 - root - ERROR - None
+2018-08-01 10:47:33,784 - root - INFO - 点击logo跳转正常
+2018-08-01 10:47:37,175 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:47:37,176 - root - INFO - ############################### START ###############################
+2018-08-01 10:47:37,177 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:47:56,425 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 17.65753436088562 seconds
+2018-08-01 10:47:56,612 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.18613076210021973 seconds
+2018-08-01 10:47:59,014 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.401315450668335 seconds
+2018-08-01 10:47:59,091 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 0.07605218887329102 seconds
+2018-08-01 10:47:59,092 - root - INFO - 热点信息
+2018-08-01 10:47:59,206 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11408114433288574 seconds
+2018-08-01 10:47:59,208 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010001659393310547 seconds
+2018-08-01 10:47:59,844 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.6354522705078125 seconds
+2018-08-01 10:47:59,845 - root - INFO - 热点信息
+2018-08-01 10:47:59,845 - root - ERROR - None
+2018-08-01 10:47:59,846 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:48:03,526 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:03,527 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:03,528 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:48:08,476 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2332868576049805 seconds
+2018-08-01 10:48:08,644 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.16712093353271484 seconds
+2018-08-01 10:48:11,057 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.412706136703491 seconds
+2018-08-01 10:48:11,142 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08305931091308594 seconds
+2018-08-01 10:48:11,216 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.0740509033203125 seconds
+2018-08-01 10:48:11,330 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.11207985877990723 seconds
+2018-08-01 10:48:11,333 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:48:12,117 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.7835559844970703 seconds
+2018-08-01 10:48:12,118 - root - ERROR - None
+2018-08-01 10:48:12,119 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:48:14,536 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:14,537 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:14,538 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:48:19,191 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5518054962158203 seconds
+2018-08-01 10:48:19,377 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.18513154983520508 seconds
+2018-08-01 10:48:21,257 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.8783409595489502 seconds
+2018-08-01 10:48:22,028 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7695438861846924 seconds
+2018-08-01 10:48:22,031 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0030040740966796875 seconds
+2018-08-01 10:48:22,374 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.3422415256500244 seconds
+2018-08-01 10:48:22,375 - root - ERROR - None
+2018-08-01 10:48:22,376 - root - INFO - 校园风采点击正常
+2018-08-01 10:48:24,906 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:24,907 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:24,908 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:48:30,008 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.489370822906494 seconds
+2018-08-01 10:48:30,223 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.21515107154846191 seconds
+2018-08-01 10:48:32,097 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.8733243942260742 seconds
+2018-08-01 10:48:32,786 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.6864852905273438 seconds
+2018-08-01 10:48:32,794 - root - INFO - SUCCESS    Get current window title, Spend 0.0070056915283203125 seconds
+2018-08-01 10:48:32,794 - root - ERROR - None
+2018-08-01 10:48:32,795 - root - INFO - 成功进入登录页
+2018-08-01 10:48:36,189 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:36,190 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:36,191 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:48:40,810 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.560809373855591 seconds
+2018-08-01 10:48:41,001 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.19113588333129883 seconds
+2018-08-01 10:48:42,968 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 1.9643900394439697 seconds
+2018-08-01 10:48:43,086 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.11808395385742188 seconds
+2018-08-01 10:48:43,114 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.027017593383789062 seconds
+2018-08-01 10:48:43,115 - root - ERROR - None
+2018-08-01 10:48:43,115 - root - INFO - 点击学校招生计划表格加载正常
+2018-08-01 10:48:46,540 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:46,541 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:46,542 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:48:51,175 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.030738353729248 seconds
+2018-08-01 10:48:51,376 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.19914507865905762 seconds
+2018-08-01 10:48:53,381 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.0038235187530518 seconds
+2018-08-01 10:48:53,495 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.11308097839355469 seconds
+2018-08-01 10:48:53,624 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.12808990478515625 seconds
+2018-08-01 10:48:53,755 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.13009262084960938 seconds
+2018-08-01 10:48:54,844 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.0877983570098877 seconds
+2018-08-01 10:48:54,844 - root - ERROR - None
+2018-08-01 10:48:54,845 - root - INFO - 搜索页跳转正常
+2018-08-01 10:48:58,275 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:48:58,276 - root - INFO - ############################### START ###############################
+2018-08-01 10:48:58,277 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:49:03,673 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.0933127403259277 seconds
+2018-08-01 10:49:03,849 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.175123929977417 seconds
+2018-08-01 10:49:06,246 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.395671844482422 seconds
+2018-08-01 10:49:06,987 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7412853240966797 seconds
+2018-08-01 10:49:06,991 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020055770874023438 seconds
+2018-08-01 10:49:07,099 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.10807657241821289 seconds
+2018-08-01 10:49:07,100 - root - ERROR - None
+2018-08-01 10:49:07,100 - root - INFO - 视频在线点击正常
+2018-08-01 10:49:10,528 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:49:10,529 - root - INFO - ############################### START ###############################
+2018-08-01 10:49:10,530 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:49:15,080 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.83651065826416 seconds
+2018-08-01 10:49:15,261 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.1801292896270752 seconds
+2018-08-01 10:49:17,347 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.0843794345855713 seconds
+2018-08-01 10:49:18,150 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.8015694618225098 seconds
+2018-08-01 10:49:18,153 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0009951591491699219 seconds
+2018-08-01 10:49:18,266 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.11307930946350098 seconds
+2018-08-01 10:49:18,267 - root - ERROR - None
+2018-08-01 10:49:18,267 - root - INFO - 招录公告点击正常
+2018-08-01 10:49:20,726 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:49:20,727 - root - INFO - ############################### START ###############################
+2018-08-01 10:49:20,728 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:49:25,461 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2239251136779785 seconds
+2018-08-01 10:49:25,625 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.1631157398223877 seconds
+2018-08-01 10:49:27,840 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.2132837772369385 seconds
+2018-08-01 10:49:27,874 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.03402423858642578 seconds
+2018-08-01 10:49:27,875 - root - ERROR - None
+2018-08-01 10:49:27,876 - root - INFO - 默认显示正常
+2018-08-01 10:49:31,302 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:49:31,303 - root - INFO - ############################### START ###############################
+2018-08-01 10:49:31,304 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:49:37,629 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.725340843200684 seconds
+2018-08-01 10:49:37,807 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.17612099647521973 seconds
+2018-08-01 10:49:40,228 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.4207112789154053 seconds
+2018-08-01 10:49:40,314 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.08506059646606445 seconds
+2018-08-01 10:49:41,405 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[5]>, Spend 1.0897712707519531 seconds
+2018-08-01 10:49:41,532 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.12608599662780762 seconds
+2018-08-01 10:49:41,533 - root - ERROR - None
+2018-08-01 10:49:41,534 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:49:43,905 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:49:43,906 - root - INFO - ############################### START ###############################
+2018-08-01 10:49:43,907 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:49:48,837 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.3570218086242676 seconds
+2018-08-01 10:49:48,844 - root - INFO - SUCCESS    Get current window title, Spend 0.007001638412475586 seconds
+2018-08-01 10:49:49,021 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.17612528800964355 seconds
+2018-08-01 10:49:51,713 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.6899044513702393 seconds
+2018-08-01 10:49:53,251 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.5370879173278809 seconds
+2018-08-01 10:49:53,270 - root - INFO - SUCCESS    Get current window title, Spend 0.019014835357666016 seconds
+2018-08-01 10:49:53,271 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:49:53,272 - root - ERROR - None
+2018-08-01 10:49:53,272 - root - INFO - 点击logo跳转正常
+2018-08-01 10:49:56,749 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:49:56,750 - root - INFO - ############################### START ###############################
+2018-08-01 10:49:56,751 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:50:02,060 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.136751890182495 seconds
+2018-08-01 10:50:02,239 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.17912817001342773 seconds
+2018-08-01 10:50:04,790 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.5490989685058594 seconds
+2018-08-01 10:50:04,973 - root - INFO - SUCCESS    Clicked element: <id->major-tab>, Spend 0.18312954902648926 seconds
+2018-08-01 10:50:05,005 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.031022310256958008 seconds
+2018-08-01 10:50:05,006 - root - ERROR - None
+2018-08-01 10:50:05,007 - root - INFO - 点击学校招生计划表格正在加载
+2018-08-01 10:50:08,400 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:50:08,401 - root - INFO - ############################### START ###############################
+2018-08-01 10:50:08,402 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:50:13,788 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2418136596679688 seconds
+2018-08-01 10:50:13,956 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.16611886024475098 seconds
+2018-08-01 10:50:16,109 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.151853322982788 seconds
+2018-08-01 10:50:16,220 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 0.11007952690124512 seconds
+2018-08-01 10:50:16,221 - root - INFO - 热点信息
+2018-08-01 10:50:16,360 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.1390986442565918 seconds
+2018-08-01 10:50:16,363 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020020008087158203 seconds
+2018-08-01 10:50:17,464 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 1.0987775325775146 seconds
+2018-08-01 10:50:17,464 - root - INFO - 热点信息
+2018-08-01 10:50:17,465 - root - ERROR - None
+2018-08-01 10:50:17,465 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:50:20,905 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:50:20,906 - root - INFO - ############################### START ###############################
+2018-08-01 10:50:20,907 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:50:26,285 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.3245441913604736 seconds
+2018-08-01 10:50:26,448 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.16111445426940918 seconds
+2018-08-01 10:50:28,913 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.4656338691711426 seconds
+2018-08-01 10:50:29,021 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.10707664489746094 seconds
+2018-08-01 10:50:29,124 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.10207223892211914 seconds
+2018-08-01 10:50:29,252 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.127089262008667 seconds
+2018-08-01 10:50:29,254 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010008811950683594 seconds
+2018-08-01 10:50:30,702 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 1.447028398513794 seconds
+2018-08-01 10:50:30,702 - root - ERROR - None
+2018-08-01 10:50:30,703 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:50:34,125 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:50:34,126 - root - INFO - ############################### START ###############################
+2018-08-01 10:50:34,127 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:50:39,747 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.942965269088745 seconds
+2018-08-01 10:50:39,931 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.1821293830871582 seconds
+2018-08-01 10:50:42,008 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.0773775577545166 seconds
+2018-08-01 10:50:44,264 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 2.2545952796936035 seconds
+2018-08-01 10:50:44,267 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.003001689910888672 seconds
+2018-08-01 10:50:44,342 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.07405281066894531 seconds
+2018-08-01 10:50:44,343 - root - ERROR - None
+2018-08-01 10:50:44,343 - root - INFO - 校园风采点击正常
+2018-08-01 10:50:47,750 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:50:47,751 - root - INFO - ############################### START ###############################
+2018-08-01 10:50:47,752 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:50:52,464 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.627669334411621 seconds
+2018-08-01 10:50:52,641 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.17712664604187012 seconds
+2018-08-01 10:50:54,830 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.187256336212158 seconds
+2018-08-01 10:50:55,545 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.7135043144226074 seconds
+2018-08-01 10:50:55,553 - root - INFO - SUCCESS    Get current window title, Spend 0.00700688362121582 seconds
+2018-08-01 10:50:55,555 - root - ERROR - None
+2018-08-01 10:50:55,556 - root - INFO - 成功进入登录页
+2018-08-01 10:50:58,994 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:50:58,995 - root - INFO - ############################### START ###############################
+2018-08-01 10:50:58,996 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:03,029 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.3030147552490234 seconds
+2018-08-01 10:51:03,206 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.17612671852111816 seconds
+2018-08-01 10:51:05,322 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.1145200729370117 seconds
+2018-08-01 10:51:05,482 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.16011333465576172 seconds
+2018-08-01 10:51:05,650 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.16611790657043457 seconds
+2018-08-01 10:51:05,919 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.26618266105651855 seconds
+2018-08-01 10:51:07,664 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.7442331314086914 seconds
+2018-08-01 10:51:07,664 - root - ERROR - None
+2018-08-01 10:51:07,665 - root - INFO - 搜索页跳转正常
+2018-08-01 10:51:10,136 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:51:10,137 - root - INFO - ############################### START ###############################
+2018-08-01 10:51:10,138 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:15,474 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.594835042953491 seconds
+2018-08-01 10:51:15,655 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[2]>, Spend 0.18012785911560059 seconds
+2018-08-01 10:51:17,793 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2247/1009, Spend 2.138512372970581 seconds
+2018-08-01 10:51:18,568 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7735476493835449 seconds
+2018-08-01 10:51:18,571 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010001659393310547 seconds
+2018-08-01 10:51:18,678 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.10607409477233887 seconds
+2018-08-01 10:51:18,679 - root - ERROR - None
+2018-08-01 10:51:18,679 - root - INFO - 视频在线点击正常
+2018-08-01 10:51:22,206 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:51:22,207 - root - INFO - ############################### START ###############################
+2018-08-01 10:51:22,210 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:26,542 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7793915271759033 seconds
+2018-08-01 10:51:26,743 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.20014190673828125 seconds
+2018-08-01 10:51:27,465 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7205116748809814 seconds
+2018-08-01 10:51:28,112 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='fast-login']>, Spend 0.6464519500732422 seconds
+2018-08-01 10:51:28,121 - root - INFO - SUCCESS    Get current window title, Spend 0.007005214691162109 seconds
+2018-08-01 10:51:28,122 - root - ERROR - None
+2018-08-01 10:51:28,123 - root - INFO - 点击登录跳转正常
+2018-08-01 10:51:31,518 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:51:31,519 - root - INFO - ############################### START ###############################
+2018-08-01 10:51:31,520 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:36,397 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2593061923980713 seconds
+2018-08-01 10:51:36,581 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1821303367614746 seconds
+2018-08-01 10:51:37,378 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.795753002166748 seconds
+2018-08-01 10:51:37,978 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='fast_register']>, Spend 0.5984225273132324 seconds
+2018-08-01 10:51:37,984 - root - INFO - SUCCESS    Get current window title, Spend 0.006003379821777344 seconds
+2018-08-01 10:51:37,985 - root - ERROR - None
+2018-08-01 10:51:37,985 - root - INFO - 注册页面跳转正常
+2018-08-01 10:51:41,337 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:51:41,338 - root - INFO - ############################### START ###############################
+2018-08-01 10:51:41,339 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:46,024 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5828278064727783 seconds
+2018-08-01 10:51:46,209 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18513083457946777 seconds
+2018-08-01 10:51:46,874 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6631903648376465 seconds
+2018-08-01 10:51:47,014 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.14009833335876465 seconds
+2018-08-01 10:51:47,137 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.1220858097076416 seconds
+2018-08-01 10:51:47,265 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.1270904541015625 seconds
+2018-08-01 10:51:48,358 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.0905826091766357 seconds
+2018-08-01 10:51:48,358 - root - ERROR - None
+2018-08-01 10:51:48,359 - root - INFO - 搜索页跳转正常
+2018-08-01 10:51:51,791 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:51:51,792 - root - INFO - ############################### START ###############################
+2018-08-01 10:51:51,793 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:51:56,969 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.6055543422698975 seconds
+2018-08-01 10:51:57,139 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16711735725402832 seconds
+2018-08-01 10:51:57,737 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.5984241962432861 seconds
+2018-08-01 10:51:58,372 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='m01']/a>, Spend 0.633448600769043 seconds
+2018-08-01 10:51:58,378 - root - INFO - SUCCESS    Get current window title, Spend 0.006003856658935547 seconds
+2018-08-01 10:51:58,379 - root - ERROR - None
+2018-08-01 10:51:58,379 - root - INFO - 自定义项跳转正常
+2018-08-01 10:52:01,823 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:01,824 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:01,825 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:52:07,117 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5810799598693848 seconds
+2018-08-01 10:52:07,303 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18513011932373047 seconds
+2018-08-01 10:52:08,087 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7825543880462646 seconds
+2018-08-01 10:52:08,931 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 0.8435966968536377 seconds
+2018-08-01 10:52:08,950 - root - INFO - SUCCESS    Get current window title, Spend 0.01700878143310547 seconds
+2018-08-01 10:52:08,951 - root - ERROR - None
+2018-08-01 10:52:08,952 - root - INFO - 二级页面文章列表页点击logo跳转正常
+2018-08-01 10:52:12,379 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:12,380 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:12,381 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:52:17,033 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.631706476211548 seconds
+2018-08-01 10:52:17,231 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19714021682739258 seconds
+2018-08-01 10:52:17,955 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.724621057510376 seconds
+2018-08-01 10:52:19,998 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[1]>, Spend 2.0414505004882812 seconds
+2018-08-01 10:52:20,871 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 0.8726229667663574 seconds
+2018-08-01 10:52:20,887 - root - INFO - SUCCESS    Get current window title, Spend 0.014013051986694336 seconds
+2018-08-01 10:52:20,888 - root - ERROR - None
+2018-08-01 10:52:20,889 - root - INFO - 二级页面文章详情页点击logo跳转正常
+2018-08-01 10:52:23,360 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:23,361 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:23,362 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:52:27,564 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.6663312911987305 seconds
+2018-08-01 10:52:27,745 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18112778663635254 seconds
+2018-08-01 10:52:28,619 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.873204231262207 seconds
+2018-08-01 10:52:28,699 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]/a>, Spend 0.0790550708770752 seconds
+2018-08-01 10:52:28,815 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11408090591430664 seconds
+2018-08-01 10:52:28,816 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:52:29,460 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.6424558162689209 seconds
+2018-08-01 10:52:29,461 - root - ERROR - None
+2018-08-01 10:52:29,461 - root - INFO - 导航栏点击跳转正常
+2018-08-01 10:52:31,918 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:31,919 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:31,920 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:52:36,654 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.6578805446624756 seconds
+2018-08-01 10:52:36,823 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16711974143981934 seconds
+2018-08-01 10:52:37,534 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7095017433166504 seconds
+2018-08-01 10:52:37,617 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08105683326721191 seconds
+2018-08-01 10:52:37,707 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.08906149864196777 seconds
+2018-08-01 10:52:37,820 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.11307954788208008 seconds
+2018-08-01 10:52:37,822 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:52:39,489 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 1.6664867401123047 seconds
+2018-08-01 10:52:39,489 - root - ERROR - None
+2018-08-01 10:52:39,490 - root - INFO - 二级页面导航栏点击分类跳转正常
+2018-08-01 10:52:42,888 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:42,889 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:42,890 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:52:48,117 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9768455028533936 seconds
+2018-08-01 10:52:48,309 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19013547897338867 seconds
+2018-08-01 10:52:49,870 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 1.5615317821502686 seconds
+2018-08-01 10:52:50,004 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.13288283348083496 seconds
+2018-08-01 10:52:50,824 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[2]>, Spend 0.8185789585113525 seconds
+2018-08-01 10:52:50,923 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.09806942939758301 seconds
+2018-08-01 10:52:50,923 - root - ERROR - None
+2018-08-01 10:52:50,924 - root - INFO - 二级页面左侧菜单栏点击跳转正常
+2018-08-01 10:52:54,360 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:52:54,361 - root - INFO - ############################### START ###############################
+2018-08-01 10:52:54,362 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:00,458 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.8265323638916016 seconds
+2018-08-01 10:53:00,714 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.25430727005004883 seconds
+2018-08-01 10:53:01,578 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.8626983165740967 seconds
+2018-08-01 10:53:01,702 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.1238706111907959 seconds
+2018-08-01 10:53:03,486 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[3]>, Spend 1.7832915782928467 seconds
+2018-08-01 10:53:03,564 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[3]//a[@class='lastCat'][1]/span>, Spend 0.07805299758911133 seconds
+2018-08-01 10:53:04,207 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[3]//a[@class='lastCat'][1]>, Spend 0.6424546241760254 seconds
+2018-08-01 10:53:04,313 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.10607528686523438 seconds
+2018-08-01 10:53:04,314 - root - ERROR - None
+2018-08-01 10:53:04,314 - root - INFO - 二级页面左侧三级菜单栏点击跳转正常
+2018-08-01 10:53:06,782 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:53:06,783 - root - INFO - ############################### START ###############################
+2018-08-01 10:53:06,784 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:10,989 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.648918867111206 seconds
+2018-08-01 10:53:11,150 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16011404991149902 seconds
+2018-08-01 10:53:12,041 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.8896255493164062 seconds
+2018-08-01 10:53:14,037 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[1]>, Spend 1.9954118728637695 seconds
+2018-08-01 10:53:14,681 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='back-to-list']>, Spend 0.6424531936645508 seconds
+2018-08-01 10:53:14,742 - root - INFO - SUCCESS    Element: <id->articleList> is exist, Spend 0.060042619705200195 seconds
+2018-08-01 10:53:14,744 - root - ERROR - None
+2018-08-01 10:53:14,745 - root - INFO - 二级页面点击上一篇跳转正常
+2018-08-01 10:53:17,164 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:53:17,165 - root - INFO - ############################### START ###############################
+2018-08-01 10:53:17,166 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:22,510 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.223290205001831 seconds
+2018-08-01 10:53:22,684 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17112231254577637 seconds
+2018-08-01 10:53:23,348 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6644687652587891 seconds
+2018-08-01 10:53:23,427 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='articleList']/a[1]/span[@class='title']>, Spend 0.07805490493774414 seconds
+2018-08-01 10:53:25,572 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[1]>, Spend 2.1425163745880127 seconds
+2018-08-01 10:53:25,645 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.07104754447937012 seconds
+2018-08-01 10:53:25,645 - root - ERROR - None
+2018-08-01 10:53:25,646 - root - INFO - 文章列表页点击文章跳转正常
+2018-08-01 10:53:28,037 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:53:28,038 - root - INFO - ############################### START ###############################
+2018-08-01 10:53:28,039 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:33,229 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5357937812805176 seconds
+2018-08-01 10:53:33,398 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16811919212341309 seconds
+2018-08-01 10:53:34,281 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.8833396434783936 seconds
+2018-08-01 10:53:34,362 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='articleList']/a[2]/span[@class='title']>, Spend 0.0790562629699707 seconds
+2018-08-01 10:53:36,254 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[1]>, Spend 1.8903372287750244 seconds
+2018-08-01 10:53:37,276 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='next-article']>, Spend 1.0217232704162598 seconds
+2018-08-01 10:53:37,420 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.14210057258605957 seconds
+2018-08-01 10:53:37,420 - root - ERROR - None
+2018-08-01 10:53:37,421 - root - INFO - 二级页面点击下一篇跳转正常
+2018-08-01 10:53:40,853 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:53:40,854 - root - INFO - ############################### START ###############################
+2018-08-01 10:53:40,855 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:45,077 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.603346109390259 seconds
+2018-08-01 10:53:45,264 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18713164329528809 seconds
+2018-08-01 10:53:45,888 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.623443603515625 seconds
+2018-08-01 10:53:46,998 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='articleList']/a[1]/span[@class='title']>, Spend 1.1080117225646973 seconds
+2018-08-01 10:53:49,181 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='articleList']/a[2]>, Spend 2.1835439205169678 seconds
+2018-08-01 10:53:50,137 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='prev-article']>, Spend 0.9546759128570557 seconds
+2018-08-01 10:53:50,269 - root - INFO - SUCCESS    Get element text element: <id->article-title>, Spend 0.13109397888183594 seconds
+2018-08-01 10:53:50,270 - root - ERROR - None
+2018-08-01 10:53:50,270 - root - INFO - 二级页面点击上一篇跳转正常
+2018-08-01 10:53:53,670 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:53:53,671 - root - INFO - ############################### START ###############################
+2018-08-01 10:53:53,672 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:53:59,491 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.267073631286621 seconds
+2018-08-01 10:53:59,664 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1731278896331787 seconds
+2018-08-01 10:54:00,608 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9420268535614014 seconds
+2018-08-01 10:54:01,404 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7955918312072754 seconds
+2018-08-01 10:54:01,407 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020012855529785156 seconds
+2018-08-01 10:54:01,512 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.10407328605651855 seconds
+2018-08-01 10:54:01,513 - root - ERROR - None
+2018-08-01 10:54:01,514 - root - INFO - 招录公告点击正常
+2018-08-01 10:54:04,083 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:04,084 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:04,085 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:54:09,752 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.9452784061431885 seconds
+2018-08-01 10:54:09,922 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16711783409118652 seconds
+2018-08-01 10:54:10,537 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6154112815856934 seconds
+2018-08-01 10:54:11,308 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7695438861846924 seconds
+2018-08-01 10:54:11,311 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020017623901367188 seconds
+2018-08-01 10:54:11,571 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.2591829299926758 seconds
+2018-08-01 10:54:11,572 - root - ERROR - None
+2018-08-01 10:54:11,573 - root - INFO - 校园风采点击正常
+2018-08-01 10:54:15,050 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:15,051 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:15,052 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:54:19,187 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5508053302764893 seconds
+2018-08-01 10:54:19,386 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19714069366455078 seconds
+2018-08-01 10:54:19,974 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.5868711471557617 seconds
+2018-08-01 10:54:23,010 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 3.0361459255218506 seconds
+2018-08-01 10:54:23,018 - root - INFO - SUCCESS    Get current window title, Spend 0.0060040950775146484 seconds
+2018-08-01 10:54:23,019 - root - ERROR - None
+2018-08-01 10:54:23,019 - root - INFO - 机器人点击正常
+2018-08-01 10:54:25,399 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:25,400 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:25,401 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:54:29,936 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7747766971588135 seconds
+2018-08-01 10:54:30,138 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.20028185844421387 seconds
+2018-08-01 10:54:30,770 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6324465274810791 seconds
+2018-08-01 10:54:31,517 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7475285530090332 seconds
+2018-08-01 10:54:31,521 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020012855529785156 seconds
+2018-08-01 10:54:31,617 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.09406161308288574 seconds
+2018-08-01 10:54:31,618 - root - ERROR - None
+2018-08-01 10:54:31,619 - root - INFO - 视频在线点击正常
+2018-08-01 10:54:35,030 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:35,031 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:35,032 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:54:39,692 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.577338933944702 seconds
+2018-08-01 10:54:39,896 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.20214366912841797 seconds
+2018-08-01 10:54:40,628 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.732208251953125 seconds
+2018-08-01 10:54:41,347 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7187340259552002 seconds
+2018-08-01 10:54:42,057 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7085011005401611 seconds
+2018-08-01 10:54:42,061 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0029976367950439453 seconds
+2018-08-01 10:54:42,176 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.11408162117004395 seconds
+2018-08-01 10:54:42,178 - root - ERROR - None
+2018-08-01 10:54:42,178 - root - INFO - 招录公告点击正常
+2018-08-01 10:54:45,571 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:45,572 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:45,574 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:54:50,805 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.019136667251587 seconds
+2018-08-01 10:54:50,812 - root - INFO - SUCCESS    Get current window title, Spend 0.0070035457611083984 seconds
+2018-08-01 10:54:50,985 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17312383651733398 seconds
+2018-08-01 10:54:51,591 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6049904823303223 seconds
+2018-08-01 10:54:53,160 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 1.5681087970733643 seconds
+2018-08-01 10:54:55,097 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.936396598815918 seconds
+2018-08-01 10:54:55,102 - root - INFO - SUCCESS    Get current window title, Spend 0.0040018558502197266 seconds
+2018-08-01 10:54:55,103 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:54:55,104 - root - ERROR - None
+2018-08-01 10:54:55,104 - root - INFO - 点击logo跳转正常
+2018-08-01 10:54:57,525 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:54:57,526 - root - INFO - ############################### START ###############################
+2018-08-01 10:54:57,527 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:02,958 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.777777671813965 seconds
+2018-08-01 10:55:03,147 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18620777130126953 seconds
+2018-08-01 10:55:04,050 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9026126861572266 seconds
+2018-08-01 10:55:04,717 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.6654739379882812 seconds
+2018-08-01 10:55:05,822 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.1057724952697754 seconds
+2018-08-01 10:55:05,914 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09006285667419434 seconds
+2018-08-01 10:55:05,999 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08405923843383789 seconds
+2018-08-01 10:55:06,001 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010004043579101562 seconds
+2018-08-01 10:55:06,730 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.728515625 seconds
+2018-08-01 10:55:06,730 - root - ERROR - None
+2018-08-01 10:55:06,731 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:55:10,148 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:10,149 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:10,150 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:15,262 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.96044921875 seconds
+2018-08-01 10:55:15,442 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1783592700958252 seconds
+2018-08-01 10:55:16,057 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.614433765411377 seconds
+2018-08-01 10:55:16,780 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.722510576248169 seconds
+2018-08-01 10:55:17,886 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.1058082580566406 seconds
+2018-08-01 10:55:17,978 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09006237983703613 seconds
+2018-08-01 10:55:18,086 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.10807633399963379 seconds
+2018-08-01 10:55:18,088 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010008811950683594 seconds
+2018-08-01 10:55:18,879 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.7895593643188477 seconds
+2018-08-01 10:55:18,879 - root - ERROR - None
+2018-08-01 10:55:18,880 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:55:22,283 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:22,284 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:22,285 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:26,489 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.632918119430542 seconds
+2018-08-01 10:55:26,770 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18813443183898926 seconds
+2018-08-01 10:55:27,441 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.66947340965271 seconds
+2018-08-01 10:55:28,297 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.8546044826507568 seconds
+2018-08-01 10:55:29,147 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.8474631309509277 seconds
+2018-08-01 10:55:29,149 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010013580322265625 seconds
+2018-08-01 10:55:29,281 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.13109159469604492 seconds
+2018-08-01 10:55:29,282 - root - ERROR - None
+2018-08-01 10:55:29,283 - root - INFO - 校园风采点击正常
+2018-08-01 10:55:32,627 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:32,628 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:32,629 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:36,733 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.71555495262146 seconds
+2018-08-01 10:55:36,889 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.15511107444763184 seconds
+2018-08-01 10:55:37,667 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7775509357452393 seconds
+2018-08-01 10:55:38,377 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7075009346008301 seconds
+2018-08-01 10:55:39,043 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.6654713153839111 seconds
+2018-08-01 10:55:39,051 - root - INFO - SUCCESS    Get current window title, Spend 0.007007122039794922 seconds
+2018-08-01 10:55:39,052 - root - ERROR - None
+2018-08-01 10:55:39,053 - root - INFO - 成功进入登录页
+2018-08-01 10:55:41,311 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:41,312 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:41,313 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:45,311 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.567462921142578 seconds
+2018-08-01 10:55:45,490 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17812705039978027 seconds
+2018-08-01 10:55:46,184 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6942870616912842 seconds
+2018-08-01 10:55:46,837 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.6514585018157959 seconds
+2018-08-01 10:55:46,987 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.14910411834716797 seconds
+2018-08-01 10:55:47,106 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.11916828155517578 seconds
+2018-08-01 10:55:47,234 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.12809133529663086 seconds
+2018-08-01 10:55:48,449 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.213857889175415 seconds
+2018-08-01 10:55:48,449 - root - ERROR - None
+2018-08-01 10:55:48,450 - root - INFO - 搜索页跳转正常
+2018-08-01 10:55:50,742 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:50,743 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:50,744 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:55:55,049 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.913062334060669 seconds
+2018-08-01 10:55:55,220 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17058825492858887 seconds
+2018-08-01 10:55:55,871 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.651085615158081 seconds
+2018-08-01 10:55:56,600 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.7275176048278809 seconds
+2018-08-01 10:55:57,450 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.8495995998382568 seconds
+2018-08-01 10:55:57,452 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.002002716064453125 seconds
+2018-08-01 10:55:57,552 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.0980672836303711 seconds
+2018-08-01 10:55:57,552 - root - ERROR - None
+2018-08-01 10:55:57,553 - root - INFO - 视频在线点击正常
+2018-08-01 10:55:59,816 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:55:59,817 - root - INFO - ############################### START ###############################
+2018-08-01 10:55:59,818 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:05,057 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.041151762008667 seconds
+2018-08-01 10:56:05,217 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.15911102294921875 seconds
+2018-08-01 10:56:05,848 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6294448375701904 seconds
+2018-08-01 10:56:06,643 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7945623397827148 seconds
+2018-08-01 10:56:07,629 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.9846994876861572 seconds
+2018-08-01 10:56:07,633 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.003002643585205078 seconds
+2018-08-01 10:56:07,725 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.0910634994506836 seconds
+2018-08-01 10:56:07,726 - root - ERROR - None
+2018-08-01 10:56:07,727 - root - INFO - 招录公告点击正常
+2018-08-01 10:56:10,014 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:56:10,015 - root - INFO - ############################### START ###############################
+2018-08-01 10:56:10,016 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:14,467 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.03965425491333 seconds
+2018-08-01 10:56:14,476 - root - INFO - SUCCESS    Get current window title, Spend 0.009005308151245117 seconds
+2018-08-01 10:56:14,671 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.19513893127441406 seconds
+2018-08-01 10:56:15,284 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6122250556945801 seconds
+2018-08-01 10:56:16,024 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7375240325927734 seconds
+2018-08-01 10:56:17,460 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.4360160827636719 seconds
+2018-08-01 10:56:17,468 - root - INFO - SUCCESS    Get current window title, Spend 0.006001710891723633 seconds
+2018-08-01 10:56:17,468 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:56:17,469 - root - ERROR - None
+2018-08-01 10:56:17,469 - root - INFO - 点击logo跳转正常
+2018-08-01 10:56:19,797 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:56:19,798 - root - INFO - ############################### START ###############################
+2018-08-01 10:56:19,799 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:24,969 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.621645212173462 seconds
+2018-08-01 10:56:25,136 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16611909866333008 seconds
+2018-08-01 10:56:25,847 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7095015048980713 seconds
+2018-08-01 10:56:26,588 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7395994663238525 seconds
+2018-08-01 10:56:27,910 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.321934700012207 seconds
+2018-08-01 10:56:28,021 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.11007881164550781 seconds
+2018-08-01 10:56:28,136 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.11308073997497559 seconds
+2018-08-01 10:56:28,138 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:56:28,985 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.847599983215332 seconds
+2018-08-01 10:56:28,986 - root - ERROR - None
+2018-08-01 10:56:28,987 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:56:31,289 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:56:31,290 - root - INFO - ############################### START ###############################
+2018-08-01 10:56:31,291 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:36,971 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.182068109512329 seconds
+2018-08-01 10:56:37,124 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.15210723876953125 seconds
+2018-08-01 10:56:37,893 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7685422897338867 seconds
+2018-08-01 10:56:38,685 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7905595302581787 seconds
+2018-08-01 10:56:38,810 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.12408733367919922 seconds
+2018-08-01 10:56:38,910 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.09906935691833496 seconds
+2018-08-01 10:56:39,157 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.24617457389831543 seconds
+2018-08-01 10:56:39,160 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0019996166229248047 seconds
+2018-08-01 10:56:40,999 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 1.8372993469238281 seconds
+2018-08-01 10:56:41,000 - root - ERROR - None
+2018-08-01 10:56:41,000 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:56:43,290 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:56:43,291 - root - INFO - ############################### START ###############################
+2018-08-01 10:56:43,292 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:48,229 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.5224921703338623 seconds
+2018-08-01 10:56:48,407 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17612147331237793 seconds
+2018-08-01 10:56:49,156 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.747478723526001 seconds
+2018-08-01 10:56:49,844 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.6884868144989014 seconds
+2018-08-01 10:56:50,987 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 1.1418075561523438 seconds
+2018-08-01 10:56:50,989 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010008811950683594 seconds
+2018-08-01 10:56:51,317 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.3262317180633545 seconds
+2018-08-01 10:56:51,318 - root - ERROR - None
+2018-08-01 10:56:51,319 - root - INFO - 校园风采点击正常
+2018-08-01 10:56:53,625 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:56:53,626 - root - INFO - ############################### START ###############################
+2018-08-01 10:56:53,627 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:56:58,477 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.5024774074554443 seconds
+2018-08-01 10:56:58,667 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1891334056854248 seconds
+2018-08-01 10:57:00,529 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 1.8621137142181396 seconds
+2018-08-01 10:57:01,466 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.9354274272918701 seconds
+2018-08-01 10:57:02,462 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.9944415092468262 seconds
+2018-08-01 10:57:02,469 - root - INFO - SUCCESS    Get current window title, Spend 0.006002664566040039 seconds
+2018-08-01 10:57:02,470 - root - ERROR - None
+2018-08-01 10:57:02,471 - root - INFO - 成功进入登录页
+2018-08-01 10:57:04,759 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:04,760 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:04,761 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:57:09,431 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.1612374782562256 seconds
+2018-08-01 10:57:09,600 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16811847686767578 seconds
+2018-08-01 10:57:10,475 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.87571120262146 seconds
+2018-08-01 10:57:11,241 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7645406723022461 seconds
+2018-08-01 10:57:11,553 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.3112211227416992 seconds
+2018-08-01 10:57:11,786 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.2321639060974121 seconds
+2018-08-01 10:57:11,932 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.14410138130187988 seconds
+2018-08-01 10:57:13,027 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.093773603439331 seconds
+2018-08-01 10:57:13,028 - root - ERROR - None
+2018-08-01 10:57:13,029 - root - INFO - 搜索页跳转正常
+2018-08-01 10:57:15,304 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:15,305 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:15,306 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:57:19,172 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.3690831661224365 seconds
+2018-08-01 10:57:19,337 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1631166934967041 seconds
+2018-08-01 10:57:20,024 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6860048770904541 seconds
+2018-08-01 10:57:20,724 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7004959583282471 seconds
+2018-08-01 10:57:21,947 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 1.2228643894195557 seconds
+2018-08-01 10:57:21,951 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.002002239227294922 seconds
+2018-08-01 10:57:22,049 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.0980687141418457 seconds
+2018-08-01 10:57:22,050 - root - ERROR - None
+2018-08-01 10:57:22,050 - root - INFO - 视频在线点击正常
+2018-08-01 10:57:24,327 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:24,328 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:24,329 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:57:28,583 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.7258412837982178 seconds
+2018-08-01 10:57:28,784 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1991419792175293 seconds
+2018-08-01 10:57:29,577 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7923276424407959 seconds
+2018-08-01 10:57:30,335 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7575407028198242 seconds
+2018-08-01 10:57:31,269 - root - INFO - SUCCESS    Clicked element: <id->book1>, Spend 0.9316589832305908 seconds
+2018-08-01 10:57:31,271 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0020008087158203125 seconds
+2018-08-01 10:57:31,369 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.09606814384460449 seconds
+2018-08-01 10:57:31,369 - root - ERROR - None
+2018-08-01 10:57:31,370 - root - INFO - 招录公告点击正常
+2018-08-01 10:57:33,666 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:33,679 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:33,680 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:57:38,474 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.426424264907837 seconds
+2018-08-01 10:57:38,482 - root - INFO - SUCCESS    Get current window title, Spend 0.007002830505371094 seconds
+2018-08-01 10:57:38,655 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17112278938293457 seconds
+2018-08-01 10:57:39,654 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9987070560455322 seconds
+2018-08-01 10:57:40,527 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.8716156482696533 seconds
+2018-08-01 10:57:42,424 - root - INFO - SUCCESS    Clicked element: <id->school-logo>, Spend 1.8966598510742188 seconds
+2018-08-01 10:57:42,433 - root - INFO - SUCCESS    Get current window title, Spend 0.008006095886230469 seconds
+2018-08-01 10:57:42,434 - root - INFO - 湖北工业大学本科招生信息网
+2018-08-01 10:57:42,435 - root - ERROR - None
+2018-08-01 10:57:42,436 - root - INFO - 点击logo跳转正常
+2018-08-01 10:57:44,748 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:44,749 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:44,750 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:57:48,811 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.676893472671509 seconds
+2018-08-01 10:57:48,978 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.16411733627319336 seconds
+2018-08-01 10:57:51,515 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 2.537795066833496 seconds
+2018-08-01 10:57:52,315 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7975625991821289 seconds
+2018-08-01 10:57:53,418 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.1034400463104248 seconds
+2018-08-01 10:57:53,508 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.08906197547912598 seconds
+2018-08-01 10:57:53,593 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 0.08305859565734863 seconds
+2018-08-01 10:57:53,594 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:57:54,309 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.7135043144226074 seconds
+2018-08-01 10:57:54,310 - root - ERROR - None
+2018-08-01 10:57:54,310 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:57:56,580 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:57:56,581 - root - INFO - ############################### START ###############################
+2018-08-01 10:57:56,582 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:58:01,050 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.0938267707824707 seconds
+2018-08-01 10:58:01,382 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.3312339782714844 seconds
+2018-08-01 10:58:03,100 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 1.7182238101959229 seconds
+2018-08-01 10:58:03,943 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.8415956497192383 seconds
+2018-08-01 10:58:05,059 - root - INFO - SUCCESS    Move to element: <xpath->//ul[@id='headerNav']/li[3]>, Spend 1.1148157119750977 seconds
+2018-08-01 10:58:05,149 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@id='headerNav']/li[3]//li[1]/a>, Spend 0.08906102180480957 seconds
+2018-08-01 10:58:05,257 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[3]//li[1]>, Spend 0.10607552528381348 seconds
+2018-08-01 10:58:05,258 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.0010006427764892578 seconds
+2018-08-01 10:58:06,045 - root - INFO - SUCCESS    Get element text element: <xpath->//ul[@class='article-list']/li[1]>, Spend 0.7855560779571533 seconds
+2018-08-01 10:58:06,046 - root - ERROR - None
+2018-08-01 10:58:06,046 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 10:58:08,318 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:58:08,319 - root - INFO - ############################### START ###############################
+2018-08-01 10:58:08,320 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:58:12,221 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.596839427947998 seconds
+2018-08-01 10:58:12,410 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.18712830543518066 seconds
+2018-08-01 10:58:13,314 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9036390781402588 seconds
+2018-08-01 10:58:14,358 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 1.0437400341033936 seconds
+2018-08-01 10:58:15,064 - root - INFO - SUCCESS    Clicked element: <id->book3>, Spend 0.7044963836669922 seconds
+2018-08-01 10:58:15,069 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.004002571105957031 seconds
+2018-08-01 10:58:15,152 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.08105635643005371 seconds
+2018-08-01 10:58:15,152 - root - ERROR - None
+2018-08-01 10:58:15,153 - root - INFO - 校园风采点击正常
+2018-08-01 10:58:17,429 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:58:17,430 - root - INFO - ############################### START ###############################
+2018-08-01 10:58:17,431 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:58:21,545 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.759464979171753 seconds
+2018-08-01 10:58:21,722 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1751241683959961 seconds
+2018-08-01 10:58:22,398 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.6734762191772461 seconds
+2018-08-01 10:58:23,135 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7365212440490723 seconds
+2018-08-01 10:58:24,013 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@id='robot']/img>, Spend 0.8773787021636963 seconds
+2018-08-01 10:58:24,020 - root - INFO - SUCCESS    Get current window title, Spend 0.006005048751831055 seconds
+2018-08-01 10:58:24,022 - root - ERROR - None
+2018-08-01 10:58:24,023 - root - INFO - 成功进入登录页
+2018-08-01 10:58:26,299 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:58:26,300 - root - INFO - ############################### START ###############################
+2018-08-01 10:58:26,301 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:58:30,879 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2022545337677 seconds
+2018-08-01 10:58:31,054 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.17412328720092773 seconds
+2018-08-01 10:58:31,996 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.9408740997314453 seconds
+2018-08-01 10:58:32,757 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.7600340843200684 seconds
+2018-08-01 10:58:32,892 - root - INFO - SUCCESS    Clicked element: <xpath->//p[@class='search-box']>, Spend 0.1340947151184082 seconds
+2018-08-01 10:58:33,007 - root - INFO - SUCCESS    Typed element: <id->search> content: 招生计划, Spend 0.11408042907714844 seconds
+2018-08-01 10:58:33,139 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class='input-group']//i[@class='comicon-search']>, Spend 0.13109326362609863 seconds
+2018-08-01 10:58:34,227 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@id='searchInfo']//font>, Spend 1.0877690315246582 seconds
+2018-08-01 10:58:34,228 - root - ERROR - None
+2018-08-01 10:58:34,228 - root - INFO - 搜索页跳转正常
+2018-08-01 10:58:36,535 - root - INFO - ###############################  End  ###############################
+2018-08-01 10:58:36,536 - root - INFO - ############################### START ###############################
+2018-08-01 10:58:36,537 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 10:58:40,494 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.575822114944458 seconds
+2018-08-01 10:58:40,676 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@id='headerNav']/li[2]>, Spend 0.1821296215057373 seconds
+2018-08-01 10:58:41,396 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/list/QXALHX/1003, Spend 0.7192442417144775 seconds
+2018-08-01 10:58:42,480 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 1.0839762687683105 seconds
+2018-08-01 10:58:43,466 - root - INFO - SUCCESS    Clicked element: <id->book2>, Spend 0.9846963882446289 seconds
+2018-08-01 10:58:43,469 - root - INFO - SUCCESS    Set wait all element display in 1 seconds, Spend 0.002001523971557617 seconds
+2018-08-01 10:58:43,566 - root - INFO - SUCCESS    Get element text element: <xpath->//div[@class='themeMenuHead']>, Spend 0.09506654739379883 seconds
+2018-08-01 10:58:43,566 - root - ERROR - None
+2018-08-01 10:58:43,567 - root - INFO - 视频在线点击正常
+2018-08-01 10:58:45,825 - root - INFO - ###############################  End  ###############################
+2018-08-01 11:00:03,824 - root - INFO - ############################### START ###############################
+2018-08-01 11:00:03,861 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 11:00:08,683 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.236294746398926 seconds
+2018-08-01 11:00:08,882 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.1984560489654541 seconds
+2018-08-01 11:00:11,894 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 3.0101158618927 seconds
+2018-08-01 11:00:11,967 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.07304859161376953 seconds
+2018-08-01 11:00:12,085 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[4]>, Spend 0.11608290672302246 seconds
+2018-08-01 11:00:17,155 - root - ERROR - FAIL    Unable to get element text element: <id->footprint>, Spend 5.0704615116119385 seconds
+2018-08-01 11:00:19,661 - root - INFO - ###############################  End  ###############################
+2018-08-01 11:00:42,395 - root - INFO - ############################### START ###############################
+2018-08-01 11:00:42,405 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 11:00:50,166 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 4.980837106704712 seconds
+2018-08-01 11:00:50,337 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.17024493217468262 seconds
+2018-08-01 11:00:53,290 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.952359676361084 seconds
+2018-08-01 11:00:53,366 - root - INFO - SUCCESS    Get element text element: <id->footprint01>, Spend 0.07505249977111816 seconds
+2018-08-01 11:00:54,043 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class='article-list']/li[5]>, Spend 0.6754777431488037 seconds
+2018-08-01 11:00:54,150 - root - INFO - SUCCESS    Get element text element: <id->footprint>, Spend 0.1050727367401123 seconds
+2018-08-01 11:00:54,151 - root - ERROR - None
+2018-08-01 11:00:54,152 - root - INFO - 跳转成功，显示信息正常
+2018-08-01 11:00:56,794 - root - INFO - ###############################  End  ###############################
+2018-08-01 14:35:08,299 - root - INFO - ############################### START ###############################
+2018-08-01 14:35:08,314 - root - INFO - 正在启动Chrome浏览器
+2018-08-01 14:35:13,971 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 2.5252084732055664 seconds
+2018-08-01 14:35:14,197 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.22420072555541992 seconds
+2018-08-01 14:35:16,809 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.612229585647583 seconds
+2018-08-01 14:35:16,904 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.09406542778015137 seconds
+2018-08-01 14:35:16,929 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.025017261505126953 seconds
+2018-08-01 14:35:16,930 - root - ERROR - None
+2018-08-01 14:35:16,931 - root - INFO - 点击学校招生计划表格加载正常
+2018-08-01 14:35:19,177 - root - INFO - ###############################  End  ###############################

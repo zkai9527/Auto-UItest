@@ -1,0 +1,114 @@
+<html >
+	<head>
+	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="bootstrap.min.css" />
+	<link rel="stylesheet" href="ace-fonts.min.css" />
+	<link rel="stylesheet" href="font-awesome.min.css" />
+	<link rel="stylesheet" href="ace.min.css" class="ace-main-stylesheet" id="main-ace-style"/>
+	<script src="jquery.min.js"></script>
+	</head>
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div class="page-content">
+				<div class="page-header">
+					<h1>
+						短信发送
+						<small>
+							<i class="ace-icon fa fa-angle-double-right"></i>
+							选择模版发送不同的短信
+						</small>
+					</h1>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+						<!-- PAGE CONTENT BEGINS -->
+						<form class="form-horizontal" role="form">
+							<div class="form-group">
+								<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 手机号码</label>
+
+								<div class="col-sm-6">
+									<input type="text" id="mobiles" placeholder="多个手机号使用;分隔" class="col-xs-10 col-sm-8">
+									<span class="help-inline col-xs-12 col-sm-4">
+										<span class="middle">多个手机号使用;分隔</span>
+									</span>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="col-sm-3 control-label no-padding-right" for="form-field-1-1"> 短信模版 </label>
+								<div class="col-sm-3">
+									<select id="templateId" class="form-control">
+									<option value="3115089">健康检查异常通知</option>
+									</select>
+								</div>
+							</div>
+							<div class="space-4"></div>
+							<div class="form-group">
+								<label class="col-sm-3 control-label no-padding-right" for="form-field-2"> 短信内容 </label>
+
+								<div class="col-sm-9">
+									<input type="text" id="contents" placeholder="多个内容使用;分隔" class="col-xs-10 col-sm-8">
+									<span class="help-inline col-xs-12 col-sm-4">
+										<span class="middle">多个内容使用;分隔</span>
+									</span>
+								</div>
+							</div>
+							<div class="clearfix form-actions">
+								<div class="col-md-offset-3 col-md-9">
+									<button class="btn btn-info" type="button" id="submitBtn">
+										<i class="ace-icon fa fa-check bigger-110"></i>
+										发送
+									</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+	$(function () {
+		var A = {};
+		var B = {"a":1, "b":2};
+		A = B;
+		console.log('A:');
+		console.log(A);
+		console.log('B:');
+		console.log(B);
+		B["c"] = 3;
+		console.log('A:');
+		console.log(A);
+		console.log('B:');
+		console.log(B);
+		$('#submitBtn').click(function(){
+			//url域名以发布为准
+			var url = 'http://testadmin.zhinengdayi.com/weixin/api/common/sendMobileNotification';
+			var params ={};
+			var mobiles = $('#mobiles').val(); 
+			var templateid = $('#templateId').val();
+			var contents = $('#contents').val();
+			params['mobiles'] = mobiles;
+			params['templateId'] = templateid;
+			params['params'] = contents;
+			$("#submitBtn").addClass("disabled");
+			$.ajax({
+	                type: "POST",
+	                url: url,
+	                dataType : "json",
+	                data: params
+	            }).done(function (data) {
+	                if (data.code == '000000') {
+	                    $("#submitBtn").removeClass("disabled");
+	                    alert("发送成功");
+	                } else {
+	                    $("#submitBtn").removeClass("disabled");
+	                    alert("发送失败");
+	                }
+	            }).always(function () {
+	                $("#submitBtn").removeClass("disabled");
+	            });
+		});
+	});
+		
+	</script>
+</html>

@@ -1,0 +1,10 @@
+2018-08-06 10:24:41,174 - root - INFO - ############################### START ###############################
+2018-08-06 10:24:41,175 - root - INFO - 正在启动Chrome浏览器
+2018-08-06 10:24:46,006 - root - INFO - SUCCESS    Navigated to http://zhinengdayi.com/hbut, Spend 3.2457754611968994 seconds
+2018-08-06 10:24:46,149 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='enrollment-regulations']//li[1]>, Spend 0.14108800888061523 seconds
+2018-08-06 10:24:48,238 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://zhinengdayi.com/page/detail/QXALHX/2258/1013, Spend 2.0868725776672363 seconds
+2018-08-06 10:24:48,333 - root - INFO - SUCCESS    Clicked element: <xpath->//li[@id='major-tab']//following-sibling::li>, Spend 0.09506702423095703 seconds
+2018-08-06 10:24:48,359 - root - INFO - SUCCESS    Get attribute element: <id->major-con>,attribute: style, Spend 0.025004863739013672 seconds
+2018-08-06 10:24:48,360 - root - ERROR - None
+2018-08-06 10:24:48,360 - root - INFO - 点击学校招生计划表格加载正常
+2018-08-06 10:24:50,604 - root - INFO - ###############################  End  ###############################
